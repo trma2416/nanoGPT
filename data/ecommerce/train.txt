@@ -1,1000 +1,268 @@
-Customer: Tell me about the Active classic boxers.
-Agent: The Active classic boxers is There's a reason why our boxers are a cult favorite.
-Customer: Tell me about the Active sport boxer briefs.
-Agent: The Active sport boxer briefs is Skinning up Glory requires enough movement without your boxers deciding to poach their own route. The form.
-Customer: Tell me about the Active sport briefs.
-Agent: The Active sport briefs is These superbreathable no.
-Customer: Tell me about the Alpine guide pants.
-Agent: The Alpine guide pants is Skin in, climb ice, switch to rock, traverse a knife.
-Customer: Tell me about the Alpine wind jkt.
-Agent: The Alpine wind jkt is On high ridges, steep ice and anything alpine, this jacket serves as a true "best of all worlds" staple. It excels as a stand.
-Customer: Tell me about the Ascensionist jkt.
-Agent: The Ascensionist jkt is Our most technical soft shell for full.
-Customer: Tell me about the Atom.
-Agent: The Atom is A multitasker's cloud nine, the Atom plays the part of courier bag, daypack and carry.
-Customer: Tell me about the Print banded betina btm.
-Agent: The Print banded betina btm is Our fullest coverage bottoms, the Betina fits highest across the hips with a slightly scooped, lined front. Made from a blend of 82% nylon/18% spandex.<br><br><b>Details:</b><ul> <li>Fullest coverage bottom</li> <li>"Fits highest across hips, full front and back coverage"</li> <li>Regular rise</li> <li>Improved fabric</li></ul><br><br><b>Fabric: </b>5.6.
-Customer: Tell me about the Baby micro d.
-Agent: The Baby micro d is luxe cardigan.
-Customer: Tell me about the Baby sun bucket hat.
-Agent: The Baby sun bucket hat is This hat goes on when the sun rises above the horizon, and stays on when raindrops start falling. Its made from an ultra.
-Customer: Tell me about the Baby sunshade top.
-Agent: The Baby sunshade top is Soft, stretchy polyester fabric is fast wicking, quick drying and breathable <br><br><b>Details:</b><ul> <li>Lap shoulders relax the silhouette </li> <li>Extended roll.
-Customer: Tell me about the Baggies shorts.
-Agent: The Baggies shorts is Even Baggies, our most popular shorts for anything, or nothing, occasionally need an update. This season we've increased the inseam length. Their casual fit, quick.
-Customer: Tell me about the Beach bucket.
-Agent: The Beach bucket is Whenever you're at the junction of water and land, neutralize the sun's unforgiving rays with the wide brim and soft design of our versatile Beach Bucket. It has a durable, semi.
-Customer: Tell me about the Better sweater jkt.
-Agent: The Better sweater jkt is June nights camped out in New Mexico's Navajo country are starry and cold. Layer up in the softest fleece we've spun to date. Made from high.
-Customer: Tell me about the Borderless shorts.
-Agent: The Borderless shorts is 11 in..
-Customer: Tell me about the Borderless shorts.
-Agent: The Borderless shorts is 7 in..
-Customer: Tell me about the Bucket hat.
-Agent: The Bucket hat is Besides its shade.
-Customer: Tell me about the Cap 1 bottoms.
-Agent: The Cap 1 bottoms is Spring skiing is as transient as the wind. Move fast, move light, and still stay dry with our lightest.
-Customer: Tell me about the Cap 1 boxer briefs.
-Agent: The Cap 1 boxer briefs is On bivy or belay, the form.
-Customer: Tell me about the Cap 1 graphic t.
-Agent: The Cap 1 graphic t is shirt.
-Customer: Tell me about the Cap 1 t.
-Agent: The Cap 1 t is shirt.
-Customer: Tell me about the Cap 2 t.
-Agent: The Cap 2 t is shirt.
-Customer: Tell me about the Cap 2 zip neck.
-Agent: The Cap 2 zip neck is Designed for wet.
-Customer: Tell me about the Cap 3 zip neck.
-Agent: The Cap 3 zip neck is Capilene 3 provides excellent insulation and next.
-Customer: Tell me about the Cap 4 bottoms.
-Agent: The Cap 4 bottoms is For sufferfests like the Grand in January, a pair of these warm bottoms will add a bright side to your grief. Our warmest synthetic performance baselayer, Capilene 4 fabric is stretchy and compressible. Its smooth jersey exterior glides easily beneath layers, and the cozy internal grid traps warmth, wicks moisture, and is highly breathable. With a brushed.
-Customer: Tell me about the City by the sea t.
-Agent: The City by the sea t is shirt.
-Customer: Tell me about the Compound cargo pants.
-Agent: The Compound cargo pants is long.
-Customer: Tell me about the Compound cargo pants.
-Agent: The Compound cargo pants is reg.
-Customer: Tell me about the Continental shorts.
-Agent: The Continental shorts is Wrinkle.
-Customer: Tell me about the Cotton board shorts.
-Agent: The Cotton board shorts is A classic in fabric and form, the 5.6.
-Customer: Tell me about the Crosstown.
-Agent: The Crosstown is Crosstown or cross.
-Customer: Tell me about the Custodian pants.
-Agent: The Custodian pants is long.
-Customer: Tell me about the Deep wading jkt.
-Agent: The Deep wading jkt is Whether you're chasing Olympic Peninsula chrome or reaching for stripers beyond the break, sometimes you simply have to jump in and go deep. This ultra.
-Customer: Tell me about the Delivery shorts.
-Agent: The Delivery shorts is Locals know all the best spots. Our Delivery Shorts are built for all.
-Customer: Tell me about the Down sweater vest.
-Agent: The Down sweater vest is Impossible to confuse with the sweater vests found at golf courses and bingo parlors, ours comes packed with ultra.
-Customer: Tell me about the Dragoons t.
-Agent: The Dragoons t is shirt.
-Customer: Tell me about the Duck pants.
-Agent: The Duck pants is long.
-Customer: Tell me about the Elias fz sweatshirt.
-Agent: The Elias fz sweatshirt is Clean as a Wingate splitter. Our Elias is made from a welcoming blend of 95% organic cotton and 5% spandex in an athletic, climbing cut. The pockets rise above your harness and the stand.
-Customer: Tell me about the Elias sweatshirt.
-Agent: The Elias sweatshirt is The dirtbagger's complete wardrobe.
-Customer: Tell me about the Fezzman shirt.
-Agent: The Fezzman shirt is Look fresh even when you feel disheveled. Made with 65% lightweight, breathable, all.
-Customer: Tell me about the Fish frenzy t.
-Agent: The Fish frenzy t is shirt.
-Customer: Tell me about the Freewheeler.
-Agent: The Freewheeler is This sturdy wheeled bag holds a week's worth of clothes and keeps boots or dirty gear in a separate compartment, a floating baffle separating the two. The zippered, easy.
-Customer: Tell me about the Gi ii pants.
-Agent: The Gi ii pants is The travel.
-Customer: Tell me about the Gi ii shorts.
-Agent: The Gi ii shorts is Base camp favorites, the Gi II's featherlight weight and motion.
-Customer: Tell me about the Girl's boardie capris.
-Agent: The Girl's boardie capris is Built for two.
-Customer: Tell me about the Girl's boardie shorts.
-Agent: The Girl's boardie shorts is So you're raising Neptune's daughter.
-Customer: Tell me about the Girl's cotton tank dress.
-Agent: The Girl's cotton tank dress is This soft cotton dress feels breezy and cool, just like a day at the beach. Made of a lightweight 5.
-Customer: Tell me about the Going big in b.c. poster.
-Agent: The Going big in b.c. poster is One mans trash is another mans treasure. Orry Grant taking it out on Trash Chutes. Nelson, B.C. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>Dimensions: 24 x 36</li> <li>"Photo by Steve Ogle ?2009 Patagonia, Inc."</li></ul><br><br><b>Fabric: </b>Printed with soy inks on 100% recycled paper<br><br>Printed in USA..
-Customer: Tell me about the Great divider.
-Agent: The Great divider is From standing waves to blue.
-Customer: Tell me about the Guidewater duffle.
-Agent: The Guidewater duffle is max.
-Customer: Tell me about the Guidewater jkt.
-Agent: The Guidewater jkt is Pounding into the teeth of a nor'easter or swinging tips through the deluge the Guidewater keeps you fishing comfortably long after other anglers have headed for the barn. We combined our best knowledge of fabrics, design and technology to create a full.
-Customer: Tell me about the Guidewater shorts.
-Agent: The Guidewater shorts is Everything we love about the Guidewater Pants, and less. The shorts version has all the same water.
-Customer: Tell me about the Guidewater vest.
-Agent: The Guidewater vest is Find the tippet, tool or fly box you need without taking your eyes of that big bank feeder. The Guidewater Vest replaces old school flap.
-Customer: Tell me about the Highwater pfd vest.
-Agent: The Highwater pfd vest is The constant boat angling dilemma: You know you should wear one, but who wants to fish all day in a life vest? Here's the solution: The Highwater Vest is a full.
-Customer: Tell me about the Hip chest pack.
-Agent: The Hip chest pack is Ready to go vest free? This is the classic alternative. Designed to be worn either on the hips or at the chest (hence the name), this bombproof, streamlined pack is the ultimate in functional simplicity. Made from tough, polyurethane.
-Customer: Tell me about the Iceberg t.
-Agent: The Iceberg t is shirt.
-Customer: Tell me about the Insulator pants.
-Agent: The Insulator pants is Steelhead, salmon, trout...they aren't called "coldwater" fisheries for nothing. But the answer for chilly wading and cool weather is simple: Insulator Pants. Our latest version is made with moisture.
-Customer: Tell me about the '73 logo t.
-Agent: The '73 logo t is shirt.
-Customer: Tell me about the Borderless gi shorts.
-Agent: The Borderless gi shorts is These shorts have a mud.
-Customer: Tell me about the Cap 1 graphic tee.
-Agent: The Cap 1 graphic tee is Kids live at full throttle. Allow their boundless energy to flourish with the short.
-Customer: Tell me about the Cap 3 bottoms.
-Agent: The Cap 3 bottoms is Like birds and clouds, kids stay on the move. Their abandon doesn't need purpose, just a little warmth when the sun sets or a quick dry when the water sprays. Worn alone or under layers, Capilene 3 Bottoms are a versatile, fast.
-Customer: Tell me about the El cap jkt.
-Agent: The El cap jkt is Resistant to hard play but irresistible against the skin, our El Cap Jacket is lightweight, quick.
-Customer: Tell me about the Flying fish t.
-Agent: The Flying fish t is shirt.
-Customer: Tell me about the Gpiw classic t.
-Agent: The Gpiw classic t is shirt.
-Customer: Tell me about the Live simply guitar t.
-Agent: The Live simply guitar t is shirt.
-Customer: Tell me about the Synch marsupial.
-Agent: The Synch marsupial is The roomy kangaroo.
-Customer: Tell me about the Torrentshell jkt.
-Agent: The Torrentshell jkt is When the barometric pressure gets low, our Torrentshell Jacket keeps spirits high.
-Customer: Tell me about the La surfer maria t.
-Agent: The La surfer maria t is shirt.
-Customer: Tell me about the Lead an examined life poster.
-Agent: The Lead an examined life poster is Guanacos standing sentry in Patagonia, Chile. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>"Dimensions: 36"" x 24"""</li> <li>Photo by Terri Laine</li></ul><br><br><b>Fabric: </b>Printed with soy inks on recycled paper that contains 50% post.
-Customer: Tell me about the Light and variable surf trunks.
-Agent: The Light and variable surf trunks is Our lightest, leanest surf trunks are built for minimal underwater drag when diving and bodysurfing, and they pack down into their own tiny stuff pouch. Made from hardy but ultralightweight 3.5.
-Customer: Tell me about the Live simply bug t.
-Agent: The Live simply bug t is shirt.
-Customer: Tell me about the Live simply deer t.
-Agent: The Live simply deer t is shirt.
-Customer: Tell me about the Live simply guitar t.
-Agent: The Live simply guitar t is shirt.
-Customer: Tell me about the Logo hat.
-Agent: The Logo hat is Your unflappable road.
-Customer: Tell me about the L/s hooded rashguard.
-Agent: The L/s hooded rashguard is The 30.
-Customer: Tell me about the L/s island hopper shirt.
-Agent: The L/s island hopper shirt is Serene in the face of serious heat and always up for a cleansing dunk in the hotel sink, an Island Hopper is traveler's manna. Its ultralight blend of moisture.
-Customer: Tell me about the L/s rashguard.
-Agent: The L/s rashguard is The 30.
-Customer: Tell me about the L/s steersman shirt.
-Agent: The L/s steersman shirt is This ain't no city shirt, unless you're in Manila. The Steersman is de.
-Customer: Tell me about the Lw endurance ankle socks.
-Agent: The Lw endurance ankle socks is Fast.
-Customer: Tell me about the Lw endurance quarter socks.
-Agent: The Lw endurance quarter socks is Scraped, taped or inflamed our ankles suffer in rough country. These endurance socks are made for miles of abusive terrain, with an over.
-Customer: Tell me about the Lw hiking crew socks.
-Agent: The Lw hiking crew socks is Like suites for your feet, these stay.
-Customer: Tell me about the Lw r4 jkt.
-Agent: The Lw r4 jkt is High off the deck on Warbonnet Peak in the immaculate Wind River Mountains, the naming of the range quickly makes sense. Our windproof and stretchy Lightweight R4 Jacket protects and warms with a Polartec Windbloc laminate sandwiched between a low.
-Customer: Tell me about the Lw travel duffel.
-Agent: The Lw travel duffel is This wanderer's bag is large enough to hold the contents of your life without getting in the way. A large zippered entry to the roomy main compartment makes it easy to toss in a few essentials or stuff it to the max. An exterior side zipper pocket organizes small items; the top pocket holds music in backpack mode or wallet, phone, etc. in duffel mode. Tuckaway backpack straps and fully padded back and bottom panels provide comfort and durability however you use it. Compression straps and a cinch collar secure pretty much anything you want to attach to the outside, and the duffel stows away in its own pocket. Made from strong, extremely lightweight 50.
-Customer: Tell me about the Lw travel pack.
-Agent: The Lw travel pack is In the lifelong search for a place to call home, we all do time on the road. This super.
-Customer: Tell me about the M10 jkt.
-Agent: The M10 jkt is Made for those who thrive on thin and technical climbs in full alpine conditions, the new M10 is a study in minimalism.
-Customer: Tell me about the M10 pants.
-Agent: The M10 pants is Volatile climates don't rule out big adventures, they just call for ingenious techniques.
-Customer: Tell me about the Merino 1 crew.
-Agent: The Merino 1 crew is In a day packed with decisions, this one's easy. Worn alone, this versatile long.
-Customer: Tell me about the Merino 1 t.
-Agent: The Merino 1 t is shirt.
-Customer: Tell me about the Merino 2 polo.
-Agent: The Merino 2 polo is The feel is bohemian, the look should at least get your foot in the door. Designed for an active lifestyle in warm to cool weather, Merino 2 is made from 73% merino wool wrapped around an all.
-Customer: Tell me about the Merino 2 t.
-Agent: The Merino 2 t is shirt.
-Customer: Tell me about the Migration hemp shirt.
-Agent: The Migration hemp shirt is Summerweight and soft, the Migration represents an inspired merger of 55% durable hemp and 45% plush organic cotton fabrics. Lightweight and cool against the skin, it travels easily between a morning of bouldering and the afternoon commute to Grand Junction. Offset shoulder seams stay smooth under the weight of a courier's bag. Comes with a side.
-Customer: Tell me about the Minimalist board shorts.
-Agent: The Minimalist board shorts is 19 in..
-Customer: Tell me about the Minimass.
-Agent: The Minimass is The Mini Mass's lesser size lets you thread narrow streets and airplane aisles without leaving chaos in your wake. This less.
-Customer: Tell me about the Mlc wheelie.
-Agent: The Mlc wheelie is The alpinist's saying speed is of the essence never rings truer than in teeming airport terminals. Roll up the ramp, past the crowd at the baggage carousel and out the door with this slightly more structured, wheeled version of our utilitarian MLC (Maximum Legal Carry.
-Customer: Tell me about the Mountain island t.
-Agent: The Mountain island t is shirt.
-Customer: Tell me about the Nine trails jkt.
-Agent: The Nine trails jkt is Somewhere between the Bridger Ridge Run (for normal trail.
-Customer: Tell me about the Nine trails shorts.
-Agent: The Nine trails shorts is For those who view trails as their sanctuary, running means more than freedom of movement and lightness of being. Our versatile, pared.
-Customer: Tell me about the Organic logo t.
-Agent: The Organic logo t is shirt.
-Customer: Tell me about the O web belt.
-Agent: The O web belt is A social gadabout able to cross the divide between work wear, casual duds and a day at the crags. Quick.
-Customer: Tell me about the Paddler board shorts.
-Agent: The Paddler board shorts is Built for maximum comfort during friction.
-Customer: Tell me about the Pataloha shirt.
-Agent: The Pataloha shirt is Early Hawaiian shirts were pitched as "postcards you can wear." We've been making ours inspired by native designs true to the aloha spirit for 20 years. Exquisitely tailored in environmentally friendly 3.3.
-Customer: Tell me about the Planer t.
-Agent: The Planer t is shirt.
-Customer: Tell me about the Platform t.
-Agent: The Platform t is shirt.
-Customer: Tell me about the Pocket pack.
-Agent: The Pocket pack is For the savvy commuter, our pocket pack carries a day's worth of essentials in a streetwise silhouette. The gusseted main compartment has an interior divider and organizer pockets. The ultralight, quick.
-Customer: Tell me about the R1 hoody.
-Agent: The R1 hoody is Spotted round the globe from high alpine ridges to backcountry bowls, our R1 Hoody earns raves from our most active customers and ambassadors alike. Warm, breathable and mobile, it has the minimalist detailing that avid climbers and backcountry skiers need.
-Customer: Tell me about the R1 p/o.
-Agent: The R1 p/o is Desert sandstone, corn snow, iced.
-Customer: Tell me about the Rain shadow pants.
-Agent: The Rain shadow pants is Light enough to be an afterthought.
-Customer: Tell me about the Reg fit organic ctn jeans.
-Agent: The Reg fit organic ctn jeans is long.
-Customer: Tell me about the Reg fit organic ctn jeans.
-Agent: The Reg fit organic ctn jeans is reg.
-Customer: Tell me about the Relax fit organic ctn jeans.
-Agent: The Relax fit organic ctn jeans is shor.
-Customer: Tell me about the Remat.
-Agent: The Remat is One man's trash is another man or woman's wader changing mat. The ultimate recycled product, the Remat is a byproduct from automobile gasket manufacturing, reworked and repurposed for a long life of heavy.
-Customer: Tell me about the Retro grade pants.
-Agent: The Retro grade pants is We used Sonnie Trotter's wish list as our guide for these climbing pants. Made from a friendly blend of organic cotton and spandex (98%/2%), they feel soft, light and cool, with just the right amount of give for dynamic motion. For free reign, we designed the straight legs with a full.
-Customer: Tell me about the Riverwalker.
-Agent: The Riverwalker is felt.
-Customer: Tell me about the Riverwalker.
-Agent: The Riverwalker is studded.
-Customer: Tell me about the Rock guide shorts.
-Agent: The Rock guide shorts is Made for high, open expanses of granite, like Lumpy Ridge, Tuolumne and Vedauwoo, the lightweight Rock Guides combine 96% stretch.
-Customer: Tell me about the Rockpile t.
-Agent: The Rockpile t is shirt.
-Customer: Tell me about the Runshade top.
-Agent: The Runshade top is From the trailhead at dawn through sunset on Imogene Pass, our Runshade keeps you comfortable on high.
-Customer: Tell me about the Shop pants.
-Agent: The Shop pants is reg.
-Customer: Tell me about the Shop pants.
-Agent: The Shop pants is short.
-Customer: Tell me about the Simple guide jkt.
-Agent: The Simple guide jkt is Skin.
-Customer: Tell me about the Soaring jkt.
-Agent: The Soaring jkt is Made for aerial pursuits, the Soaring Jacket combines spring.
-Customer: Tell me about the Sonar so no t.
-Agent: The Sonar so no t is shirt.
-Customer: Tell me about the Special edition pataloha shirt.
-Agent: The Special edition pataloha shirt is This year's Special Edition Pataloha shirt artfully depicts surf and climbing spots around the globe. Made with coconut buttons and a beautiful but pragmatic machine.
-Customer: Tell me about the Squid t.
-Agent: The Squid t is shirt.
-Customer: Tell me about the S/s island hopper shirt.
-Agent: The S/s island hopper shirt is Serene in the face of serious heat and always up for a cleansing dunk in the hotel sink, an Island Hopper is traveler's manna. Its ultralight blend of moisture.
-Customer: Tell me about the S/s pragmatist shirt.
-Agent: The S/s pragmatist shirt is Like a spare roll of duct tape, the Pragmatist shirt works wonders in a pinch. Lightweight organic cotton and polyester (70%/30%) in a crisp woven construction is soft, cleanly styled and acutely wrinkle.
-Customer: Tell me about the S/s puckerware shirt.
-Agent: The S/s puckerware shirt is In humidity that makes other shirts wilt, the Puckerware Shirt's textured 65% polyester and 35% organic cotton yarn.
-Customer: Tell me about the S/s stretch t.
-Agent: The S/s stretch t is Ready for the full.
-Customer: Tell me about the Sst jkt.
-Agent: The Sst jkt is Bristol Bay, Tierra del Fuego, the Russian Arctic.
-Customer: Tell me about the Stormfront duffel 100.
-Agent: The Stormfront duffel 100 is Designed to haul the goods, protect them and keep them dry, the Stormfront Duffel 100 is built with the most abrasion.
-Customer: Tell me about the Stormfront pack.
-Agent: The Stormfront pack is Wade a little too deep? Take one over the bow? Twelve hours of horizontal downpour? No problema. Whatever you need to keep dry, is. As long as it's safely inside the Stormfront Pack. This ultra.
-Customer: Tell me about the Stretch polo.
-Agent: The Stretch polo is Core to the nomadic lifestyle, our Stretch Polo is stuffable, sink.
-Customer: Tell me about the Stretch wading belt.
-Agent: The Stretch wading belt is This is the belt that comes with all Patagonia Waders, made from 1 1/2"" wide elasticized polyester, and now featuring the low.
-Customer: Tell me about the Sub divider.
-Agent: The Sub divider is Just as tough and water resistant as the Great Divider, the Sub is a compact, soft.
-Customer: Tell me about the Surf brim.
-Agent: The Surf brim is Whether you're paddling back out or waiting on the next set, our Surf Brim keeps your cranium cool and your eyes shaded. It is a quick.
-Customer: Tell me about the Surf sneaker.
-Agent: The Surf sneaker is The footwear of choice for chasing the beach blitz, poling canoes or in some cases, sprucing up for a wedding. The Surf Sneaker employs the same tried.
-Customer: Tell me about the Tech web belt.
-Agent: The Tech web belt is This one's for the big jobs: hoisting heavy work pants, resisting migration under a hipbelt and most importantly, keeping everything in place during animated air.
-Customer: Tell me about the Text logo t.
-Agent: The Text logo t is shirt.
-Customer: Tell me about the The more you know t.
-Agent: The The more you know t is shirt.
-Customer: Tell me about the Three trees shirt.
-Agent: The Three trees shirt is A summertime staple for airy crags and lofty topouts. The lightweight 100% organic cotton ripstop fabric adds durability for coarse climbs; it has a progressive.
-Customer: Tell me about the Torrentshell pants.
-Agent: The Torrentshell pants is They're lightweight, waterproof and breathable: Our new Torrentshell Pants keep you singing in the rain when the thunderstorms boom. The simple pull.
-Customer: Tell me about the Travel belt.
-Agent: The Travel belt is The traveler's ace keeps your pants adhered and your valuables securely hidden. Made from fast.
-Customer: Tell me about the Traverse jkt.
-Agent: The Traverse jkt is Training routine number 47: bicycle to the Indian Peaks; run as much as you can to Pawnee Pass; scramble up Shoshoni Peak; return and ride home; soak in hot tub; start planning number 48. Our lightweight and highly breathable Traverse keeps stride the entire way. The fast.
-Customer: Tell me about the Trout silhouette t.
-Agent: The Trout silhouette t is shirt.
-Customer: Tell me about the Trucker hat.
-Agent: The Trucker hat is For big rigs or big hair, this is a classic road.
-Customer: Tell me about the Twenty.
-Agent: The Twenty is three's board shorts.
-Customer: Tell me about the Ultra shorts.
-Agent: The Ultra shorts is Our ever.
-Customer: Tell me about the Ulw hiking crew socks.
-Agent: The Ulw hiking crew socks is The heat along the Boucher Trail can shut you down fast. These airy hikers, with their dynamic fabric blend of 75% chlorine.
-Customer: Tell me about the Velocity cap.
-Agent: The Velocity cap is When you're running the parched, open slopes of Black Mountain, our Velocity Cap keeps your head in a current of cool air. It has built.
-Customer: Tell me about the Watermaster hip highs.
-Agent: The Watermaster hip highs is Originally made for Midwest spring creek aficionados, the Watermaster Hip Highs are finding fans among backcountry trekkers, jetty scramblers, skinny water paddlers and other minimalist anglers. Rest assured, these are not your grandpa's floppy rubber hip boots, either. The Watermasters are made from our proprietary waterproof/breathable polyester microfiber fabric with H2No Hydrostorm barrier for durable, sweat.
-Customer: Tell me about the World according to bikers t.
-Agent: The World according to bikers t is shir.
-Customer: Tell me about the World trout t.
-Agent: The World trout t is shirt.
-Customer: Tell me about the Watermaster waders.
-Agent: The Watermaster waders is long.
-Customer: Tell me about the Watermaster waders.
-Agent: The Watermaster waders is short.
-Customer: Tell me about the Active hipster.
-Agent: The Active hipster is While the perfect life might be nomadic, the perfect underwear should stay put. Low.
-Customer: Tell me about the Active mesh bra.
-Agent: The Active mesh bra is Despite its inability to act as a belay slave, our Active Mesh Bra makes a perfect climbing partner. The body.
-Customer: Tell me about the All.
-Agent: The All is out capris.
-Customer: Tell me about the All weather training top.
-Agent: The All weather training top is Whether you're hitting your stride on Ojai's Pratt Trail or finding your chi in the yoga studio, sometimes a quick escape is all you need. This simplified and functional multisport training top stretches, breathes, and features wider straps for pack.
-Customer: Tell me about the Alpine guide pants.
-Agent: The Alpine guide pants is Skin in, climb ice, switch to rock, traverse a knife.
-Customer: Tell me about the Aravis hoody.
-Agent: The Aravis hoody is The Lochsa River season ushers in snowmelt wavetrains and ice cream headaches. Warm up at the take.
-Customer: Tell me about the Aravis jkt.
-Agent: The Aravis jkt is The highly adaptable Aravis Jacket eases the transition from icy hibernation to full.
-Customer: Tell me about the Astrid tank.
-Agent: The Astrid tank is Conjure up Cardiff's shouldery waves with the Astrid Tank. The unbelievably soft, strappy tank has a flattering scoop neck and is made from our lightest weight organic cotton (55%)/Tencel jersey (45%) fabric blend. Feminine neck gathers and a wide.
-Customer: Tell me about the Bandha dress.
-Agent: The Bandha dress is Boulder in this dress. Get married in it. Carry it in your pack through the Pyren?es for unscheduled romantic opportunities. Light, sleeveless, sexy and fully mobile, the Bandha's V.
-Customer: Tell me about the Bandha top.
-Agent: The Bandha top is This versatile top combines a striking French twist with soft, stretchy fabric. And it's sleeveless, for full arm mobility without sacrificing shoulder coverage. A flattering V.
-Customer: Tell me about the Barely bikini.
-Agent: The Barely bikini is Better than going commando, our petal.
-Customer: Tell me about the Better sweater jkt.
-Agent: The Better sweater jkt is The Better Sweater Jacket has all the lightweight, moisture.
-Customer: Tell me about the Birdwalk t.
-Agent: The Birdwalk t is shirt.
-Customer: Tell me about the Borderless capris.
-Agent: The Borderless capris is Unfazed by gloppy spindrift, Borderless Capris relish trails that more resemble creeks. The versatile Borderless Capris are made from a moisture.
-Customer: Tell me about the Bouquet t.
-Agent: The Bouquet t is shirt.
-Customer: Tell me about the Butterfly logo t.
-Agent: The Butterfly logo t is shirt.
-Customer: Tell me about the Cap 1 bottoms.
-Agent: The Cap 1 bottoms is Made from our lightest.
-Customer: Tell me about the Cap 1 t.
-Agent: The Cap 1 t is shirt.
-Customer: Tell me about the Cap 2 bottoms.
-Agent: The Cap 2 bottoms is Simul.
-Customer: Tell me about the Cap 2 v.
-Agent: The Cap 2 v is neck.
-Customer: Tell me about the Cap 2 zip neck.
-Agent: The Cap 2 zip neck is The Bugaboos have long approaches that make you sweaty and blustery ridges that flash.
-Customer: Tell me about the Cap 4 bottoms.
-Agent: The Cap 4 bottoms is When your world consists of granite frozen into place, our Capilene 4 Bottoms keep you dry and warm with a cozy interior grid that traps heat, wicks perspiration, and breathes. A smooth, stretchy exterior glides easily beneath layers so you can concentrate on front.
-Customer: Tell me about the Dala horse t.
-Agent: The Dala horse t is shirt.
-Customer: Tell me about the Ditch the car.
-Agent: The Ditch the car is ride t.
-Customer: Tell me about the Down sweater.
-Agent: The Down sweater is There's much to see 14,000 feet up at the Chasm View bivy: a vertigo.
-Customer: Tell me about the El cap jkt.
-Agent: The El cap jkt is Stuff the El Cap Jacket into your pack on your next Winds walkabout.
-Customer: Tell me about the Elsa top.
-Agent: The Elsa top is When shade.
-Customer: Tell me about the Elsa tunic.
-Agent: The Elsa tunic is The Elsa Tunic flourishes in heat.
-Customer: Tell me about the Gravitee tank.
-Agent: The Gravitee tank is The Gravitee's racerback and full shelf bra offer all the support and unrestricted movement of a traditional tank but in a bold and relaxed silhouette. The banded hem sits snugly on the hips, providing comfort under a harness and modesty during inverted poses. The Gravitee's light, breathable 54% organic cotton/41% Tencel/5% spandex blend and non.
-Customer: Tell me about the Guide jkt.
-Agent: The Guide jkt is Sharp granite, sticky verglas, untracked lines.
-Customer: Tell me about the Hills t.
-Agent: The Hills t is shirt.
-Customer: Tell me about the Inga shorts.
-Agent: The Inga shorts is Long rides continue after the session's over with the Inga Shorts. An extended 11" inseam and pinstripe organic cotton canvas offer a graceful alternative to denim. The slim.
-Customer: Tell me about the Inter.
-Agent: The Inter is continental capris.
-Customer: Tell me about the Inter.
-Agent: The Inter is continental pants.
-Customer: Tell me about the Island hemp pants.
-Agent: The Island hemp pants is A solid choice for evening horseshoes, the Island Hemp Pants have a linen.
-Customer: Tell me about the Island hemp skirt.
-Agent: The Island hemp skirt is The Island Hemp Skirt brings freestyle comfort to any creekside rock.
-Customer: Tell me about the Island hemp top.
-Agent: The Island hemp top is The breezy Island Hemp Top takes you from soaring Sierra midday temps to cool twilight without crumpling. The tank's linen.
-Customer: Tell me about the Lithia dress.
-Agent: The Lithia dress is Celebrate the Summer Solstice with a dress that makes the most of longer days. The summer.
-Customer: Tell me about the Lithia pants.
-Agent: The Lithia pants is Pull out the Lithia Pants after you've gotten your daily wave fix.
-Customer: Tell me about the Lithia skirt.
-Agent: The Lithia skirt is After packing the quiver, who has room for clothes? The versatile Lithia Skirt solves the space dilemma by functioning as both a skirt and a top. The multitasker's lightweight organic cotton (55%)/Tencel (45%) fabric is supersoft and scrunchable. As an A.
-Customer: Tell me about the L/s rashguard.
-Agent: The L/s rashguard is The 30.
-Customer: Tell me about the L/s runshade top.
-Agent: The L/s runshade top is Long days and scorching rays can't stop the cool, comfortable.
-Customer: Tell me about the M10 jkt.
-Agent: The M10 jkt is Made for those who thrive on thin and technical climbs in full alpine conditions, the new M10 is a study in minimalism.
-Customer: Tell me about the Mandeville hoody.
-Agent: The Mandeville hoody is A going.
-Customer: Tell me about the Margot dress.
-Agent: The Margot dress is Dig the Margot out of your board bag, throw it on and head out for live salsa; this super comfy dress is impervious to wrinkles or frump. Soft one.
-Customer: Tell me about the Merino 1 graphic t.
-Agent: The Merino 1 graphic t is shirt.
-Customer: Tell me about the Merino 1 tank.
-Agent: The Merino 1 tank is Finespun and cool enough to lower the temperature of open trail runs, heated crags and the Laiki street market, this silky.
-Customer: Tell me about the Merino 2 crew.
-Agent: The Merino 2 crew is Be moved by the people and culture of a new place.
-Customer: Tell me about the Merino 2 dress.
-Agent: The Merino 2 dress is Stuff this flowing dress into your backpack for the red.
-Customer: Tell me about the Micro puff vest.
-Agent: The Micro puff vest is Too many alpine shiver.
-Customer: Tell me about the Morning glory capris.
-Agent: The Morning glory capris is Our most versatile capris, made of a supple, smooth.
-Customer: Tell me about the Morning glory cross.
-Agent: The Morning glory cross is back tank.
-Customer: Tell me about the Multi use shorts.
-Agent: The Multi use shorts is Streamlined, technical and ultra light: Our newest women's shorts move, breathe, and stay limber on trail runs, lunch.
-Customer: Tell me about the Multi use skirt.
-Agent: The Multi use skirt is Even while you're running under a bright sun, this skirt provides unhindered mobility and a comfortable fit. The supple fabric (4.
-Customer: Tell me about the Nine trails shorts.
-Agent: The Nine trails shorts is Mountain biking, trail running, fast packing: If it gets your heart rate up, then it suits the versatile Women's Nine Trails Shorts. The lightweight fabric is made from a 75.
-Customer: Tell me about the Nine trails vest.
-Agent: The Nine trails vest is Simplicity in action.
-Customer: Tell me about the R2 jkt.
-Agent: The R2 jkt is A modern mountain staple, the adaptable R2 Jacket serves as a stand.
-Customer: Tell me about the Rain shadow jkt.
-Agent: The Rain shadow jkt is Staying inside isn't the only way to stay dry.
-Customer: Tell me about the Rock guide pants.
-Agent: The Rock guide pants is Our Rock Guides are made of a soft, stretch.
-Customer: Tell me about the Rock guide shorts.
-Agent: The Rock guide shorts is Tough, abrasion.
-Customer: Tell me about the Serenity tights.
-Agent: The Serenity tights is long.
-Customer: Tell me about the Simple guide jkt.
-Agent: The Simple guide jkt is Skin.
-Customer: Tell me about the Simple guide pants.
-Agent: The Simple guide pants is A trip to Patagonia and one pair of pants: Our Simple Guides deal with burly approaches, burlier conditions and coarse granite without a whimper. The double.
-Customer: Tell me about the Sleeveless a/c shirt.
-Agent: The Sleeveless a/c shirt is As cooling but more structured than a summer tank or camisole, this feminine shirt is made from our lightest.
-Customer: Tell me about the Solid adour btm.
-Agent: The Solid adour btm is Adours feature a scooped, low.
-Customer: Tell me about the Solid betina btm.
-Agent: The Solid betina btm is Our fullest coverage bottoms, the Betina fits highest across the hips with a slightly scooped, lined front. Made from a hard.
-Customer: Tell me about the Solid bibiana 1 piece.
-Agent: The Solid bibiana 1 piece is The sporty Bibiana One.
-Customer: Tell me about the Solid bibiana top.
-Agent: The Solid bibiana top is The athletic Bibiana Top's racerback style won't impede shoulder blade movement when paddling or swimming. It has a lined front and an elastic underbust band for secure support. The low.
-Customer: Tell me about the Solimar pants.
-Agent: The Solimar pants is In case your travel plans coincide with biting flies or the cloudless clarity of a high.
-Customer: Tell me about the Solimar shorts.
-Agent: The Solimar shorts is Horny toads and other professional heat regulators seek shade. Let our new Solimar Shorts provide yours. Made of a tightly woven (30 UPF) lightweight stretch nylon with a DWR (durable water repellent) finish, the shorts are cut longer but can be rolled up and secured with button fasteners. They have two front patch pockets with welted openings and a single thigh mini drop.
-Customer: Tell me about the S/s a/c shirt.
-Agent: The S/s a/c shirt is Not even stifling Great Basin heat can overwhelm the born.
-Customer: Tell me about the S/s rashguard.
-Agent: The S/s rashguard is The 30.
-Customer: Tell me about the S/s sol patrol shirt.
-Agent: The S/s sol patrol shirt is A shirt impossible to insult, the Sol Patrol still looks crisp after weeks of road or backcountry travel. The easy drape and tapered, feminine fit discourage frump and fatigue, and the tightly woven polyester blocks UV rays (30 UPF) for the life of the shirt. It's exceptionally soft, lightweight and quick.
-Customer: Tell me about the Sun shelter shirt.
-Agent: The Sun shelter shirt is Chic and sensible, the Sun Shelter saves your skin for something more deserving than a tan. Fusing sun protection with feminine styling, the hip length Sun Shelter has delicate yoke detailing, a mandarin collar and slightly belled sleeves that stay put when rolled up. Made from a fine, yarn.
-Customer: Tell me about the Super cali shorts.
-Agent: The Super cali shorts is Super Cali Shorts keep their cool during tough sand.
-Customer: Tell me about the Synch vest.
-Agent: The Synch vest is With the possible exception of duct tape, there is nothing more versatile than a fleece vest. This one provides color and core warmth without the bulk of a jacket, and is made from cushy 7.5.
-Customer: Tell me about the Tranquila capri leggings.
-Agent: The Tranquila capri leggings is Even in the crux you'll keep your cool in skin.
-Customer: Tell me about the Traverse jkt.
-Agent: The Traverse jkt is The sun has set, the air is cold, and three rugged miles lie between you and a warm car. Good motivation to zip up the lightweight Traverse and pick up your pace. This highly breathable soft shell is made from a fast.
-Customer: Tell me about the Undercover cami.
-Agent: The Undercover cami is Morph from water.
-Customer: Tell me about the Vitaliti dress.
-Agent: The Vitaliti dress is The ocean has had its way with you. Your salted, sun.
-Customer: Tell me about the Vitaliti skirt.
-Agent: The Vitaliti skirt is After a long day at the sharp end of a rope, shake the granite dust out of your hair and slip into this soft, stretchy skirt. Vitaliti fabric is a sturdy blend of 55% organic cotton/35% all.
-Customer: Tell me about the Vitaliti tank.
-Agent: The Vitaliti tank is Whether it's sea spray, river water or sweat, the things we love to do get us wet. Vitaliti fabric puts that water to work by cooling the skin as it wicks moisture away from the body. Made of a quick.
-Customer: Tell me about the Wheat t.
-Agent: The Wheat t is shirt.
-Customer: Tell me about the Wyoming climbing poster.
-Agent: The Wyoming climbing poster is Max Factor, 5.11c. Vedauwoo, Wyoming. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>Dimensions: 24 x 36</li> <li>Photo by Jim Thornburg ?2009 Patagonia</li></ul><br><br><b>Fabric: </b>Printed with soy inks on 100% recycled paper<br><br>Printed in USA..
-Customer: Tell me about the Yosemite essence t.
-Agent: The Yosemite essence t is shirt.
-Customer: Tell me about the Print bayonne btm.
-Agent: The Print bayonne btm is The low.
-Customer: Tell me about the Print bibiana tankini.
-Agent: The Print bibiana tankini is The Bibiana Tankini's racerback style won't impede shoulder blade movement and has a 360.
-Customer: Tell me about the Print bibiana top.
-Agent: The Print bibiana top is The athletic Bibiana Top's racerback style won't impede shoulder blade movement when paddling or swimming. It has a lined front and an elastic underbust band for secure support. The low.
-Customer: Tell me about the Print boucau halter top.
-Agent: The Print boucau halter top is The Boucau has soft ties at the neck and back that adjust for a personalized fit. A wide underbust band offers ample support; contouring darts add shape. With removable soft pads and a smooth lining for a clean look. Made from a blend of 82% nylon/18% spandex.<br><br><b>Details:</b><ul> <li>Soft ties around neck and back</li> <li>Lined front</li> <li>"Wide, elastic supportive band under bust"</li> <li>Contouring darts add shape</li> <li>"Removable, side.
-Customer: Tell me about the Print kupala top.
-Agent: The Print kupala top is Our fixed triangle bikini top, the Kupala, has adjustable crossover ties that cinch down and keep it all together under pressure. Small pleats add shaping. The lined front has removable soft pads. Made from a durable blend of 82% nylon/18% spandex.<br><br><b>Details:</b><ul> <li>Fixed triangle swim top with adjustable ties that crossover at back</li> <li>Lined front</li> <li>Center pleats add shape</li> <li>"Removable, side.
-Customer: Tell me about the Runshade t.
-Agent: The Runshade t is shirt.
-Customer: Tell me about the Serenity capris.
-Agent: The Serenity capris is For travelers committed to a carry.
-Customer: Tell me about the Serenity tights.
-Agent: The Serenity tights is Soft and stretchy for unrestricted mobility on the mat, our Serenity Tights are fitted close at the waist and through the hips and contour to a slight flare at the ankles. The adjustable waist rolls up or down and hides a mini key pocket. Made from an 8.6.
-Customer: Tell me about the Simply organic polo.
-Agent: The Simply organic polo is Like Trumpeter Swans, the Simply Organic Polo relishes a down.
-Customer: Tell me about the Simply organic tank.
-Agent: The Simply organic tank is Summer tanks take a beating; freshen up last year's crop with the Simply Organic Tank, now available in prints and solids. Wear the tank day or night, alone or layered, all year long. The organic cotton jersey has a natural stretch; the feminine scoop with a mini.
-Customer: Tell me about the Simply organic tee.
-Agent: The Simply organic tee is The Simply Organic Tee survives tough scrapes year after year, making it a perennial favorite. Made from soft organic cotton, the shirt layers beautifully and has form.
-Customer: Tell me about the Simply organic top.
-Agent: The Simply organic top is When Spring's first blossoms cover the hills, venture out in the lively Simply Organic Top. The scoop.
-Customer: Tell me about the Solid boucau halter top.
-Agent: The Solid boucau halter top is The Boucau has soft ties at the neck and back that adjust for a personalized fit. A wide underbust band offers ample support; contouring darts add shape. With removable soft pads and a smooth lining for a clean look. Made from a blend of 82% nylon/18% spandex.<br><br><b>Details:</b><ul> <li>Soft ties around neck and back</li> <li>Lined front</li> <li>"Wide, elastic supportive band under bust"</li> <li>Contouring darts add shape</li> <li>"Removable, side.
-Customer: Tell me about the Solid kupala top.
-Agent: The Solid kupala top is Our fixed triangle bikini top, the Kupala, has adjustable crossover ties that cinch down and keep it all together under pressure. Small pleats add shaping. The lined front has removable soft pads. Made from a durable blend of 82% nylon/18% spandex.<br><br><b>Details:</b><ul> <li>Fixed triangle swim top with adjustable ties that crossover at back</li> <li>Lined front</li> <li>Center pleats add shape</li> <li>"Removable, side.
-Customer: Tell me about the Solid paries btm.
-Agent: The Solid paries btm is The boy.
-Customer: Tell me about the Solid sunamee btm.
-Agent: The Solid sunamee btm is Stay.
-Customer: Tell me about the Solimar skirt.
-Agent: The Solimar skirt is The Solimar is a brief and sassy wrap skirt with built.
-Customer: Tell me about the Sol patrol shirt.
-Agent: The Sol patrol shirt is Go ahead. Go bone fishing. Ride your horse across the Red Desert. Live like a Gila monster, but wear this shirt so you don't end up looking like one. The Sol Patrol's lustrous, quick.
-Customer: Tell me about the Sport top.
-Agent: The Sport top is The loose, performance fit of the Women's Sport Top won't hike up or become annoyingly shifty during long.
-Customer: Tell me about the Meridian board shorts.
-Agent: The Meridian board shorts is The stretchy Meridian Board Shorts accommodate floaters and drop.
-Customer: Tell me about the Merino 1 crew.
-Agent: The Merino 1 crew is Our lightest merino layer, this silky.
-Customer: Tell me about the Print paries btm.
-Agent: The Print paries btm is Styled like a boy short, our Paries Bottoms fit low and straight across the hips, with medium coverage in front and full coverage in back. Lined front. Made from our improved fabric blend of 82% nylon/18% spandex.<br><br><b>Details:</b><ul> <li>Boy.
-Customer: Tell me about the Print sunamee btm.
-Agent: The Print sunamee btm is Stay.
-Customer: Tell me about the R1 full.
-Agent: The R1 full is zip jkt.
-Customer: Tell me about the R1 p/o.
-Agent: The R1 p/o is Here's to trails that circle the globe and to never.
-Customer: Tell me about the Merino 1 t.
-Agent: The Merino 1 t is shirt.
-Customer: Tell me about the Merino 2 bottoms.
-Agent: The Merino 2 bottoms is Thankfully dry and warm when your forward progress is stop.
-Customer: Tell me about the Storm light jkt.
-Agent: The Storm light jkt is An emerging classic, inspired by the original Storm Jacket and holding true to timeless traits: It's waterproof, breathable and comfortable. Built for warm.
-Customer: Tell me about the Stretch ascent jkt.
-Agent: The Stretch ascent jkt is Simple, stretchy, lightweight and waterproof. Made for alpine climbs where the realities include sideways.
-Customer: Tell me about the Merino 2 t.
-Agent: The Merino 2 t is shirt.
-Customer: Tell me about the Merino 3 pants.
-Agent: The Merino 3 pants is These luxuriously soft pants have a silhouette like falling water and move gracefully from yoga to sharing a plate of penne puttanesca. They feature a smooth, double.
-Customer: Tell me about the Morning glory dress.
-Agent: The Morning glory dress is When onshore winds blow out your morning session, pull this irrepressible dress out of your pack and head to town. Made from a skin.
-Customer: Tell me about the Morning glory skirt.
-Agent: The Morning glory skirt is You can stand still and win a dance contest in this spirited 3.
-Customer: Tell me about the Morning glory tights.
-Agent: The Morning glory tights is This everyday essential features a clean.
-Customer: Tell me about the Torrentshell jkt.
-Agent: The Torrentshell jkt is Tropical rain forests share at least one thing with the Patagonia Ice Cap: wet weather. For trekking and hiking in drenching conditions, our new Torrentshell provides 2.5.
-Customer: Tell me about the Torrentshell pants.
-Agent: The Torrentshell pants is They're lightweight, waterproof and breathable: Our new Torrentshell Pants keep you singing in the rain when the thunderstorms boom. The simple pull.
-Customer: Tell me about the Trampoli t.
-Agent: The Trampoli t is shirt.
-Customer: Tell me about the Cap 4 zip neck.
-Agent: The Cap 4 zip neck is Keep your furnace stoked when temperatures nose.
-Customer: Tell me about the Corinne dress.
-Agent: The Corinne dress is After a day of Rivermouth's glassy offshore, slide on the Corinne Dress for shrimp tacos at the harbor. Featuring a deep V.
-Customer: Tell me about the Cotton fleece hoody.
-Agent: The Cotton fleece hoody is When Central Coast nights turn on the chill factor, layer up with the soft and stretchy Cotton Fleece Hoody. Made of 95% organic cotton fleece with a touch of stretch (5% spandex), the lightweight jacket is cut long and pairs nicely with jeans or a dress. The full front zipper, contoured hood and handwarmer pockets preserve warmth. A wide, 4" rib at the hem and cuffs helps maintain the streamlined fit. Recyclable through the Common Threads Recycling Program.<br><br><b>Details:</b><ul> <li>Made from cozy soft cotton fleece with stretch</li> <li>Contoured hood for warmth</li> <li>Full front zipper and handwarmer pockets</li> <li>"Wide 4"" rib at hem and cuffs"</li></ul><br><br><b>Fabric: </b>7.6.
-Customer: Tell me about the Nano puff p/o.
-Agent: The Nano puff p/o is The most versatile piece of insulation we make, our Nano Puff is weather.
-Customer: Tell me about the Nine trails jkt.
-Agent: The Nine trails jkt is The Nine Trails Jacket is for women whose idea of entertainment has everything to do with lung.
-Customer: Tell me about the Down sweater vest.
-Agent: The Down sweater vest is Impossible to confuse with the sweater vests found at golf courses and bingo parlors, ours comes packed with ultra.
-Customer: Tell me about the Drift shirt.
-Agent: The Drift shirt is All epic tales of the West begin with a drifter.
-Customer: Tell me about the Duway skirt.
-Agent: The Duway skirt is Everyone knows it's what's inside that counts. Beneath this silky, sanded 100% polyester skirt (40% recycled) is a built.
-Customer: Tell me about the Ester top.
-Agent: The Ester top is Throw on the Ester Top for a quick surf check.
-Customer: Tell me about the Freedom to roam t.
-Agent: The Freedom to roam t is shirt.
-Customer: Tell me about the Girona board shorts.
-Agent: The Girona board shorts is Evoking the Spanish province they were named for, the Girona Board Shorts were born to skin dive and paddle the clear Mediterranean waters of the Costa Brava. The additional length of the Girona boardies provides extra protection from sun, chafe and salt rash. A snap fly with flat tie closure offers a secure fit; the zippered, welted thigh pocket has a drain hole and key loop. Inseam (size 8) is 12". Made from a strong and stretchy blend of 93% polyester (100% recycled)/7% spandex. Recyclable through the Common Threads Recycling Program.<br><br><b>Details:</b><ul> <li>Stretch.
-Customer: Tell me about the North coast t.
-Agent: The North coast t is shirt.
-Customer: Tell me about the Owlin around t.
-Agent: The Owlin around t is shirt.
-Customer: Tell me about the Pinback top.
-Agent: The Pinback top is Release your inner locomotion with the action.
-Customer: Tell me about the Print adour btm.
-Agent: The Print adour btm is Adours have a slightly scooped, low.
-Customer: Tell me about the Hotline top.
-Agent: The Hotline top is As your mind embraces the challenge of that sinister.
-Customer: Tell me about the Houdini full.
-Agent: The Houdini full is zip jkt.
-Customer: Tell me about the Inga shortie.
-Agent: The Inga shortie is Short boards and short shorts liven up any shore break. The Inga Shortie is made from soft, sturdy organic cotton canvas, and with a 2" inseam, they're about the shortest shorts we make. Slim.
-Customer: Tell me about the Vasana top.
-Agent: The Vasana top is The stretchy, sleeveless Vasana offers more shoulder coverage than a tank but still meets the far.
-Customer: Tell me about the Versatili.
-Agent: The Versatili is tee.
-Customer: Tell me about the Versatiliti cardi.
-Agent: The Versatiliti cardi is A summer.
-Customer: Tell me about the Versatiliti tank.
-Agent: The Versatiliti tank is Vivid colors and delicate details enliven this season's crop of Versatiliti Tanks. Made of a lightweight blend of 62% organic cotton/38% Tencel that line.
-Customer: Tell me about the Active boy shorts.
-Agent: The Active boy shorts is We've worn these versatile, feminine boy shorts as on.
-Customer: Tell me about the Active briefs.
-Agent: The Active briefs is Whether you're beating the heat in Bali or skinning up your favorite cirque, these ultrasoft, lightweight briefs provide exceptional stretch and moisture.
-Customer: Tell me about the Active classic cami.
-Agent: The Active classic cami is Worn under a dry top or as a base layer when topping 14,000 feet; the form.
-Customer: Tell me about the All.
-Agent: The All is time shell.
-Customer: Tell me about the All.
-Agent: The All is wear capris.
-Customer: Tell me about the All weather capris.
-Agent: The All weather capris is Worthy of your best Downward Facing Dog, comfortable on the journey from produce aisle to hatchback, and breathable enough for running and riding.
-Customer: Tell me about the Inter.
-Agent: The Inter is continental pants.
-Customer: Tell me about the Inter.
-Agent: The Inter is continental shorts.
-Customer: Tell me about the Island hemp dress.
-Agent: The Island hemp dress is The soft hand of the Island Hemp Dress is a welcome reprieve after a day of bumping through the saw.
-Customer: Tell me about the Alpine wind jkt.
-Agent: The Alpine wind jkt is On high ridges, steep ice and anything alpine, this jacket serves as a true "best of all worlds" staple. It excels as a stand.
-Customer: Tell me about the Aravis 1/4 zip.
-Agent: The Aravis 1/4 zip is For corn skiing and other transition.
-Customer: Tell me about the Astrid top.
-Agent: The Astrid top is The delicately feminine Astrid Top is a refreshing change from the heavy.
-Customer: Tell me about the Astrid wrap.
-Agent: The Astrid wrap is A casual, elegant wrap to layer over your favorite dress.
-Customer: Tell me about the Baggies shorts.
-Agent: The Baggies shorts is A loyal partner in grime, Baggies love slurping through mud on the Little Colorado and chimneying Thunder River's caverns as much as you do. Made from tough, lightweight Supplex nylon, they're treated with a DWR (durable water repellent) finish that sloughs off rivers, oceans, lakes and downpours. The wide back yoke defines a casual and flattering fit. With quick.
-Customer: Tell me about the Kamala dress.
-Agent: The Kamala dress is Like the lotus flower it's named for, the Kamala Dress is an aquatic.
-Customer: Tell me about the Kamala skirt.
-Agent: The Kamala skirt is Worn as a skirt or a dress, the Kamala Skirt adapts to whatever watering hole you encounter. Lightweight organic cotton/Tencel (55%/45%) fabric has a smooth, breeze.
-Customer: Tell me about the Kite town t.
-Agent: The Kite town t is shirt.
-Customer: Tell me about the Barely bra (a/b).
-Agent: The Barely bra (a/b) is Featherweight yet supportive, our Barely Bra wicks moisture and breathes to keep you cool. The slender, nonslip straps adjust in the back; an underbust band provides gentle support. Lace.
-Customer: Tell me about the Barely everyday bra (b/c).
-Agent: The Barely everyday bra (b/c) is The flattering Barely Everyday Bra rolls with whatever the day dishes up. The bra's comfortable, pull.
-Customer: Tell me about the Barely hipster.
-Agent: The Barely hipster is The Barely Hipster's form.
-Customer: Tell me about the Symmetry w16 poster.
-Agent: The Symmetry w16 poster is Bill Serantoni ice climbs Fearful Symmetry in Alberta Canada. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>"Dimensions: 36"" x 24"""</li> <li>Photo by Cory Richards</li></ul><br><br><b>Fabric: </b>Printed with soy inks on recycled paper that contains 50% post.
-Customer: Tell me about the Synch snap.
-Agent: The Synch snap is t.
-Customer: Tell me about the Synch vest.
-Agent: The Synch vest is When a shirt isn't enough and a jacket is too much, this versatile core.
-Customer: Tell me about the Tarpon t.
-Agent: The Tarpon t is shirt.
-Customer: Tell me about the Vitaliti vee.
-Agent: The Vitaliti vee is The stretch and refined drape of Vitaliti fabric puts this T.
-Customer: Tell me about the Vitalti pants.
-Agent: The Vitalti pants is Soft and stretchy Vitaliti pants make the trip easier no matter how you get there or where you stay. Made of a 55% organic cotton/35% all.
-Customer: Tell me about the Wavefarer board shorts.
-Agent: The Wavefarer board shorts is Wavefarers won't bunch up during a long paddle, and they have a quick dry.
-Customer: Tell me about the Thrift shorts.
-Agent: The Thrift shorts is The unofficial short for those who wander around aimlessly, with no visible means of support. Made of a light.
-Customer: Tell me about the Torrentshell jkt.
-Agent: The Torrentshell jkt is Tropical rain forests share at least one thing with the Patagonia Ice Cap: wet weather. For trekking and hiking in drenching conditions, our new Torrentshell provides 2.5.
-Customer: Tell me about the Borderless pants.
-Agent: The Borderless pants is The Borderless Pants won't hem you in on your quest for freedom. Adaptable to any frontier, these non.
-Customer: Tell me about the Borderless shorts.
-Agent: The Borderless shorts is The Borderless Shorts prefer pushing the limits to staying in the lines; their stretchy, unrestrictive fabric makes them well.
-Customer: Tell me about the Borderless zip.
-Agent: The Borderless zip is off pants.
-Customer: Tell me about the Traverse pants.
-Agent: The Traverse pants is Stride lightly from the Juan Tabo picnic area, save a little for climbing high into the Sandias along the Knife Edge, and then empty the tank down the leg.
-Customer: Tell me about the Traversing auguille d'entreves.
-Agent: The Traversing auguille d'entreves is Janine Patitucci navigates a summer traverse of the Aiguille dEntr?ves. Mount Blanc Massif, France. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>"Dimensions: 36"" x 24"""</li> <li>Photo by Dan Patitucci,A`~}</li></ul><br><br><b>Fabric: </b>Printed on recycled paper with soy inks.<br><br>Printed in USA..
-Customer: Tell me about the Trout head t.
-Agent: The Trout head t is shirt.
-Customer: Tell me about the Live simply deer t.
-Agent: The Live simply deer t is shirt.
-Customer: Tell me about the Live simply guitar t.
-Agent: The Live simply guitar t is shirt.
-Customer: Tell me about the Live simply pelican t.
-Agent: The Live simply pelican t is shirt.
-Customer: Tell me about the L/s gravi.
-Agent: The L/s gravi is tee.
-Customer: Tell me about the Ultra hw mountaineering socks.
-Agent: The Ultra hw mountaineering socks is Every weather window shuts eventually.
-Customer: Tell me about the Ultra lw endurance ped socks.
-Agent: The Ultra lw endurance ped socks is Socks for fiery days when even the shade feels scorched. These are our thinnest, lightest weight socks with minimal ankle coverage for turning on the boosters. Their channel.
-Customer: Tell me about the Cap 1 graphic t.
-Agent: The Cap 1 graphic t is shirt.
-Customer: Tell me about the Cap 1 scoop.
-Agent: The Cap 1 scoop is This silky top is designed for desert runs and other fast.
-Customer: Tell me about the Riverwalker vest.
-Agent: The Riverwalker vest is When the caddis are coming off so thick you have to breathe carefully and the surface is boiling, you need quick, easy access to all your gear. The Riverwalker is our classic Mesh Vest updated with 20 years of design experience, putting everything you need right where you need it. Convenient, easy.
-Customer: Tell me about the Rock guide pants.
-Agent: The Rock guide pants is First and foremost, these lightweight, soft, stretch.
-Customer: Tell me about the Velocity visor.
-Agent: The Velocity visor is For going all.
-Customer: Tell me about the Versatiliti polo.
-Agent: The Versatiliti polo is Civilized, but ready for action, the Versatiliti Polo's rib.
-Customer: Tell me about the Versatiliti tee.
-Agent: The Versatiliti tee is A free.
-Customer: Tell me about the Vintage logo pkt t.
-Agent: The Vintage logo pkt t is shirt.
-Customer: Tell me about the Runshade t.
-Agent: The Runshade t is shirt.
-Customer: Tell me about the Shelled insulator pants.
-Agent: The Shelled insulator pants is When the days get short and the water's only liquid because it's moving, our Shelled Insulators come into their own. Now made with fully bonded, 3.
-Customer: Tell me about the Shop pants.
-Agent: The Shop pants is long.
-Customer: Tell me about the Rain shadow pants.
-Agent: The Rain shadow pants is Light enough to be an afterthought.
-Customer: Tell me about the Rain shadow trench coat.
-Agent: The Rain shadow trench coat is This sleek, full.
-Customer: Tell me about the Simple guide pants.
-Agent: The Simple guide pants is A staple for rock, ice and mixed climbing, spring skiing and all things mountain, our revised soft.
-Customer: Tell me about the Single shot.
-Agent: The Single shot is The Single Shot organizes your daily necessities with its thoughtful, efficient design. A simple flap with hook.
-Customer: Tell me about the Watermaster waders.
-Agent: The Watermaster waders is king.
-Customer: Tell me about the S/s a/c shirt.
-Agent: The S/s a/c shirt is Life's heated moments: meeting the girlfriend's parents, the job interview, runouts on the Bachar/Yerian. Maintain your calm inside the A/C Shirt. It has a breezy 100% organic cotton that allows maximum airflow; think of it as air.
-Customer: Tell me about the S/s casitas shirt.
-Agent: The S/s casitas shirt is An ideal Saturday might include a hike.
-Customer: Tell me about the S/s el ray shirt.
-Agent: The S/s el ray shirt is The ultimate short.
-Customer: Tell me about the Cap 2 cap sleeve.
-Agent: The Cap 2 cap sleeve is The fastest.
-Customer: Tell me about the Cap 2 t.
-Agent: The Cap 2 t is shirt.
-Customer: Tell me about the S/s rashguard.
-Agent: The S/s rashguard is The 30.
-Customer: Tell me about the S/s sol patrol shirt.
-Agent: The S/s sol patrol shirt is In theory, chasing Indonesian surf and bonefish for weeks on end is like going to heaven; in practice, it's really damn hot. To make sure you're covered, we've travel.
-Customer: Tell me about the S/s squeaky clean polo shirt.
-Agent: The S/s squeaky clean polo shirt is T.
-Customer: Tell me about the Nine trails vest.
-Agent: The Nine trails vest is Simplicity in action.
-Customer: Tell me about the Organic cotton boxers.
-Agent: The Organic cotton boxers is After a day of getting maytagged in the water, slide on the Organic Cotton Boxers for a little soft comfort. With a new, exposed elastic waistband that's brushed for comfort and durability, the boxers sit low on the waist and have a more regular fit through hips and thighs. Fully.
-Customer: Tell me about the Organic cotton under tee.
-Agent: The Organic cotton under tee is The layerable Organic Cotton Under Tee makes a statement in versatility and function without saying a word. Made from 100% organic cotton, the slim.
-Customer: Tell me about the Watermaster waders.
-Agent: The Watermaster waders is reg.
-Customer: Tell me about the Pack vest.
-Agent: The Pack vest is Everyone knows the best spots are beyond where crowds are willing to go.
-Customer: Tell me about the Stand up shorts.
-Agent: The Stand up shorts is 5 in..
-Customer: Tell me about the Stand up shorts.
-Agent: The Stand up shorts is 7 in..
-Customer: Tell me about the Sticks 'n stones morocco poster.
-Agent: The Sticks 'n stones morocco poster is Patagonia Rock Ambassador Brittany Griffith and Jonathan Thesenga on the approach to Tout Pour Le Club (IV 5.12d). High Atlas Mountains, Morocco. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>Dimensions: 24 x 36</li> <li>"Photo by Andrew Burr ?2009 Patagonia, Inc."</li></ul><br><br><b>Fabric: </b>Printed with soy inks on 100% recycled paper<br><br>Printed in USA..
-Customer: Tell me about the Peregrine t.
-Agent: The Peregrine t is shirt.
-Customer: Tell me about the Permit silhouette t.
-Agent: The Permit silhouette t is shirt.
-Customer: Tell me about the Pique fleece 1/4 zip.
-Agent: The Pique fleece 1/4 zip is Made from plush textured fleece, the classic Pique 1/4.
-Customer: Tell me about the Pique vitaliti polo shirt.
-Agent: The Pique vitaliti polo shirt is The perfect summer fabric to keep your back from sticking to the seat. The pique polo's forward.
-Customer: Tell me about the Polo shirt.
-Agent: The Polo shirt is Pulling on a polo opens the door to possibilities.
-Customer: Tell me about the Quiet please t.
-Agent: The Quiet please t is shirt.
-Customer: Tell me about the R1 full.
-Agent: The R1 full is zip jkt.
-Customer: Tell me about the Lw guide pants.
-Agent: The Lw guide pants is A backcountry version of our immensely popular Simple Guides, the Lightweight Guide Pants combine skiing and alpine climbing features with a lightweight, free.
-Customer: Tell me about the Lw r4 jkt.
-Agent: The Lw r4 jkt is High off the deck on Warbonnet Peak in the immaculate Wind River Mountains, the naming of the range quickly makes sense. Our windproof and stretchy Lightweight R4 Jacket protects and warms with a Polartec Windbloc laminate sandwiched between a low.
-Customer: Tell me about the R2 jkt.
-Agent: The R2 jkt is A modern mountain staple, the adaptable R2 Jacket serves as a stand.
-Customer: Tell me about the Rain shadow jkt.
-Agent: The Rain shadow jkt is Staying inside isn't the only way to stay dry.
-Customer: Tell me about the Lw everyday socks.
-Agent: The Lw everyday socks is An essential part of the daily grind, these exceptionally soft, wearable socks have an inviting mix of 55% organic cotton/40% stretch nylon/5% spandex for moisture.
-Customer: Tell me about the Lw guide pants.
-Agent: The Lw guide pants is A backcountry version of our immensely popular Simple Guides, the Lightweight Guide Pants combine skiing and alpine climbing features with a lightweight, free.
-Customer: Tell me about the Lw hiking crew liner socks.
-Agent: The Lw hiking crew liner socks is Liners take the brunt of our rambles. They add lightweight warmth in cold conditions, reduce chafing when paired with a sock, and keep feet dry and cool when worn solo in sweltering weather. Made from a jersey.
-Customer: Tell me about the Storm light jkt.
-Agent: The Storm light jkt is An emerging classic, inspired by the original Storm Jacket and holding true to timeless traits: It's waterproof, breathable and comfortable. Built for warm.
-Customer: Tell me about the Stretch ascent jkt.
-Agent: The Stretch ascent jkt is Simple, stretchy, lightweight and waterproof. Made for alpine climbs where the realities include sideways.
-Customer: Tell me about the Lw sun hoody.
-Agent: The Lw sun hoody is A highly evolved second skin designed to maximize your time on the water. For simultaneous air conditioning and tough 30.
-Customer: Tell me about the Lw travel courier.
-Agent: The Lw travel courier is This graceful rendition of the courier bag is sleek and nearly weightless. It has a zippered closure with adjustable drawstring, and a zippered security pocket for your bike light or prayer beads. Its breathable, adjustable shoulder strap is comfortable and quick.
-Customer: Tell me about the Reg fit organic ctn jeans.
-Agent: The Reg fit organic ctn jeans is short.
-Customer: Tell me about the Relax fit organic ctn jeans.
-Agent: The Relax fit organic ctn jeans is long.
-Customer: Tell me about the Relax fit organic ctn jeans.
-Agent: The Relax fit organic ctn jeans is reg.
-Customer: Tell me about the Lw travel sling.
-Agent: The Lw travel sling is The feel is open.
-Customer: Tell me about the Lw travel tote.
-Agent: The Lw travel tote is Harmonizing with life on the go, the Travel Tote holds your take from the farmers' market, beach essentials or an en plein air watercolor kit. It features a large zippered main compartment for easy access and an external zippered organizer pocket (with key keeper) that swallows the entire bag when it's not in use. There's also a handy internal zip pocket for valuables, and side mesh pockets for drink bottles or snacks. The top cinch drawcord and buckles secure contents and can attach lightweight items. Breathable backpack straps store when not in use, and the lightweight foam back cushion can be removed for use as a sitting pad. Made from 50.
-Customer: Tell me about the Wavefarer board shorts.
-Agent: The Wavefarer board shorts is 21 in..
-Customer: Tell me about the Wild steelhead, alaska poster.
-Agent: The Wild steelhead, alaska poster is Catch and release. A steelhead disappears into the cold, clear waters of Alaskas Eagle River. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>Dimensions: 24 x 36</li> <li>"Photo by Tim Pask ?2009 Patagonia, Inc."</li></ul><br><br><b>Fabric: </b>Printed with soy inks on 100% recycled paper<br><br>Printed in USA..
-Customer: Tell me about the Wind path t.
-Agent: The Wind path t is shirt.
-Customer: Tell me about the Marlwalker.
-Agent: The Marlwalker is Stalking the coral flats can be tough on feet and even tougher on emotions. Fortunately, our classic flats shoe provides the comfort, support and protection.
-Customer: Tell me about the Marlwalker pants.
-Agent: The Marlwalker pants is Veterans of the tropics know long pants are the best way to beat the damaging effects of heat, sun, salt, sand and coral. You just need the right pair. Our Marlwalker Pants now provide 50 UPF sun protection and light, airy performance in or out of the water. The extremely fast.
-Customer: Tell me about the Retro grade shorts.
-Agent: The Retro grade shorts is As advantageous as a number 2 cam, Retro Grades just seem to go anywhere. They have a soft yet durable blend of 98% organic cotton and 2% spandex that stays cool and slides smoothly over skin. A gusseted crotch and articulation at the knees lets you move unchallenged. Built with a soft waist (with internal drawstring) and harness.
-Customer: Tell me about the Reversible phone home.
-Agent: The Reversible phone home is Travel broadly and surf the world, but don't forget to call your mom. Now reversible for road.
-Customer: Tell me about the River shorts.
-Agent: The River shorts is River life is mighty fine, but even there you occasionally have to wear clothes. Our River Shorts provide a quick.
-Customer: Tell me about the Hip pack.
-Agent: The Hip pack is Entrusted with holding our essentials, this little pack has big responsibilities. Designed for hiking, biking and travel, it features a zippered main compartment and small hanging mesh pocket with a key retainer, 3.
-Customer: Tell me about the Hooded monk sweatshirt.
-Agent: The Hooded monk sweatshirt is The sacred garment of predawn surf checks, sunset barbecues and skateboard beer runs, our ultimate sweatshirt hoody sports graphics from out T.
-Customer: Tell me about the Houdini full.
-Agent: The Houdini full is zip jkt.
-Customer: Tell me about the Merino 2 bottoms.
-Agent: The Merino 2 bottoms is A stop.
-Customer: Tell me about the Merino 2 crew.
-Agent: The Merino 2 crew is In this soft long.
-Customer: Tell me about the Baggies shorts.
-Agent: The Baggies shorts is Summertime unwinds in a boisterous flurry of kids, dogs, sunshine and water. Our do.
-Customer: Tell me about the Boardie shorts.
-Agent: The Boardie shorts is Let your grom rip, tear and shred.
-Customer: Tell me about the Sun glove.
-Agent: The Sun glove is Take a look at an old flats guide's hands and you'll get a pretty good idea of why we made these. Of course, there's always sunscreen, but it tends to make slippery work of casting and line control, and who wants coconut.
-Customer: Tell me about the Sun mask.
-Agent: The Sun mask is Because sun protection only works if you use it, comfort means everything. Inspired by old.
-Customer: Tell me about the Sunshade shirt.
-Agent: The Sunshade shirt is This ultralight, moisture wicking fishing shirt provides cool sun protection and all.
-Customer: Tell me about the Cap 3 crew.
-Agent: The Cap 3 crew is Jumping off rocks or over mud puddles.
-Customer: Tell me about the Duality jkt.
-Agent: The Duality jkt is Like the spring weather in Michigan's Upper Peninsula, our reversible Kid's Duality changes moods in seconds. The jacket's three.
-Customer: Tell me about the Microburst jkt.
-Agent: The Microburst jkt is From the Scottish Highlands to the Torres del Paine, trekking some of the most beautiful places on earth invariably means wet weather. Our Microburst hard shell offers full waterproof/breathable protection in a pared.
-Customer: Tell me about the Micro puff vest.
-Agent: The Micro puff vest is Too many alpine shiver.
-Customer: Tell me about the Micro d.
-Agent: The Micro d is luxe cardigan.
-Customer: Tell me about the Rashguard.
-Agent: The Rashguard is Sanctuary from sun and chill alike: This hardworking top is made of a stretchy blend of quick.
-Customer: Tell me about the Sunshade hoody.
-Agent: The Sunshade hoody is Put an end to the sunscreen standoff with this light, quick.
-Customer: Tell me about the Riverwalker.
-Agent: The Riverwalker is sticky.
-Customer: Tell me about the Freewheeler max.
-Agent: The Freewheeler max is Like a storage locker on wheels, the cavernous Freightliner Max holds everything you need for an extended trip, a fishing pilgrimage or a skiing getaway. Its main compartment swallows all your clothing and holds sundries in an interior mesh pocket; shoes and gear get their own zippered end section. The Max's light.
-Customer: Tell me about the Friction belt.
-Agent: The Friction belt is The wayfarer's belt: lightweight, flexible and low profile with just enough social grace to lend credibility when you're pleading your case to the authorities. This flexible belt keeps pants where you want them with a 1" wide nylon webbing that stays put dries quickly and serves double.
-Customer: Tell me about the Future of the earth t.
-Agent: The Future of the earth t is shirt.
-Customer: Tell me about the Torrentshell pants.
-Agent: The Torrentshell pants is Torrentshells open up the world of storm clouds, downpours and puddle jumping. Tough yet lightweight, these rain.
-Customer: Tell me about the Trim brim hat.
-Agent: The Trim brim hat is It's hard to improve on the halcyon days of summer. The Kids' Trim Brim Hat lets kids bask comfortably in the sun.
-Customer: Tell me about the Trucker hat.
-Agent: The Trucker hat is Mom and Dad may remember when hats like this kept them truckin' down the road. Ours is made from a cool blend of 47% organic cotton/28% nylon/25% polyester mesh, and has vent holes that allow steam to escape when the action heats up. A shapeable bill casts shade across the eyes and nose, and adjustable tabs in back customize the fit. The large volume accommodates big hair.<br><br><b>Details:</b><ul> <li>"Made from organic cotton, polyester mesh, and nylon"</li> <li>Bill provides sun protection</li> <li>Vent holes</li> <li>Redesigned shapeable bill</li> <li>Adjustable tabs in back customize fit</li> <li>Large volume accommodates big hair</li></ul><br><br><b>Fabric: </b>47% organic cotton/28% nylon/25% polyester<br><br><b>Weight: </b>(80 g 2.8 oz)<br><br>Made in China..
-Customer: Tell me about the Gi ii zip.
-Agent: The Gi ii zip is off pants.
-Customer: Tell me about the Girl's baggies shorts.
-Agent: The Girl's baggies shorts is An everyday staple for the beach and long summer days, our lightweight, durable Girls' Baggies have a 3" inseam and a more feminine fit than traditional Baggies. Other than that, they're built to shred: 4.
-Customer: Tell me about the Girl's beach skirt.
-Agent: The Girl's beach skirt is This easy.
-Customer: Tell me about the Mlc.
-Agent: The Mlc is The secret to slipping through O'Hare's gauntlet of nerves and angst relies on your ability to move freely. Our much.
-Customer: Tell me about the Mlc burrito.
-Agent: The Mlc burrito is Ever show up at a confab looking like you spent the night on a Yosemite ledge? Our MLC Burrito is designed to hold your clothing wrinkle.
-Customer: Tell me about the Girl's live simply deer t.
-Agent: The Girl's live simply deer t is shirt.
-Customer: Tell me about the Girl's live simply seal t.
-Agent: The Girl's live simply seal t is shirt.
-Customer: Tell me about the Girl's t.
-Agent: The Girl's t is back one piece.
-Customer: Tell me about the Girl's two.
-Agent: The Girl's two is piece set.
-Customer: Tell me about the Lightwire.
-Agent: The Lightwire is Sometimes you need to leave the office in the rearview mirror. The Lightwire has plenty of room for a jacket and lunch in addition to its fully padded computer sleeve, which protects a 15" to 17" PC laptop. The dedicated flat storage section holds files and magazines, and an external pocket offers one.
-Customer: Tell me about the Lightwire brief.
-Agent: The Lightwire brief is This adventure briefcase holds your bouldering gear or trail.
-Customer: Tell me about the Guide jkt.
-Agent: The Guide jkt is Sharp granite, sticky verglas, untracked lines.
-Customer: Tell me about the Guidewater duffle.
-Agent: The Guidewater duffle is large.
-Customer: Tell me about the Cap 3 bottoms.
-Agent: The Cap 3 bottoms is The unwavering foundation for any cold.
-Customer: Tell me about the Cap 3 crew.
-Agent: The Cap 3 crew is Capilene 3, the most versatile and fastest.
-Customer: Tell me about the Cap 3 bottoms.
-Agent: The Cap 3 bottoms is Ice climbers and alpinists know the pitfalls of sweaty leads and cold belays. Designed to manage the extremes of high.
-Customer: Tell me about the Cap 3 crew.
-Agent: The Cap 3 crew is Fundamental to the funhog lifestyle, this crew nonchalantly flows from turns in the back bowls to catching a ride at the depot. Capilene 3 is the most versatile and fastest.
-Customer: Tell me about the Guidewater pants.
-Agent: The Guidewater pants is Drift boat. Flats Skiff. Spring creek. Supermarket. Airliner. We created our new Guidewater Pants specifically for situations where you might need, well, pants. Water.
-Customer: Tell me about the Guidewater shirt.
-Agent: The Guidewater shirt is It's a shirt. It's a jacket. It's...shacket? The Guidewater might fit like a traditional canvas fishing shirt, but don't be deceived it repels breeze, bugs, drizzle and spray with soft shell performance. Added bonus: the casual good looks adapt to grocery runs and post.
-Customer: Tell me about the Cap 4 zip neck.
-Agent: The Cap 4 zip neck is Our warmest synthetic baselayer for the deep freeze of Bridger Bowl also works as an outer layer for an early season ascent of the DNB. Soft, stretchy and compressible, Capilene 4 has a smooth jersey face that glides beneath layers, and an internal grid structure that retains warmth, wicks perspiration, and breathes. With a deep zipper, forward.
-Customer: Tell me about the Caribou north wind t.
-Agent: The Caribou north wind t is shirt.
-Customer: Tell me about the Cerro torre one t.
-Agent: The Cerro torre one t is shirt.
-Customer: Tell me about the Logo visor.
-Agent: The Logo visor is Like a fortuitous cloud, this visor keeps you in shadow to temper the wilting effects of a hot day. It's made from 100% organic cotton canvas that stays soft and cool against the skin. With an adjustable rear buckle and elastic for a snug fit, a Coolmax headband to wick moisture, and a dark underbill to reduce glare. Logo is off.
-Customer: Tell me about the Long haul runners.
-Agent: The Long haul runners is Long Hauls eat up backcountry miles. Their clean silhouette is cut for more coverage and less chafe than traditional running shorts, and they're made from fast.
-Customer: Tell me about the L/s el ray shirt.
-Agent: The L/s el ray shirt is Our most versatile sun shirt, the Long.
-Customer: Tell me about the Compound cargo pants.
-Agent: The Compound cargo pants is short.
-Customer: Tell me about the Compound cargo shorts.
-Agent: The Compound cargo shorts is With cargo pockets pulled from vintage army blocks, our Compound Cargo Shorts are perfect for stashing spare fins, digicams, protein bars and wax. (Other pockets include two drop.
-Customer: Tell me about the Continental pants.
-Agent: The Continental pants is They go straight from a cramped corner of your pack to the best hole.
-Customer: Tell me about the Guidewater waders.
-Agent: The Guidewater waders is king.
-Customer: Tell me about the Critical mass.
-Agent: The Critical mass is Built for the two.
-Customer: Tell me about the Mw hiking crew socks.
-Agent: The Mw hiking crew socks is Mount Mendel's Ice Nine has a long, foot.
-Customer: Tell me about the Nano puff p/o.
-Agent: The Nano puff p/o is Already a cult classic with our ambassadors and testers, the Nano earns unanimous raves for versatility, surprising warmth and terrific all.
-Customer: Tell me about the Araveto 1/4 zip jkt.
-Agent: The Araveto 1/4 zip jkt is A slim fit and zip.
-Customer: Tell me about the Araveto hooded jkt.
-Agent: The Araveto hooded jkt is For the deep chill of a foggy post.
-Customer: Tell me about the Araveto jkt.
-Agent: The Araveto jkt is A hearty day spent running the Snake at high water should be finished with a pint and good friends. The Araveto Jacket's extra soft, brushed 8.
-Customer: Tell me about the Custodian pants.
-Agent: The Custodian pants is reg.
-Customer: Tell me about the Custodian pants.
-Agent: The Custodian pants is short.
-Customer: Tell me about the Daily grind.
-Agent: The Daily grind is This fully padded shoulder bag keeps you moving unchallenged through the daily grind. With a minimalist design, it protects a 17" or smaller laptop and helps you stay organized. The main pocket has a stretch.
-Customer: Tell me about the Baby baggies apron dress.
-Agent: The Baby baggies apron dress is This lively dress keeps your surfer girl in a delightful state of comfort. The Baby Baggies Apron Dress is made from soft and lightweight 4.
-Customer: Tell me about the Baby baggies shorts.
-Agent: The Baby baggies shorts is About 70% of the planet is covered in water, and our amphibious Baggies are built for all of it. These soft, quick.
-Customer: Tell me about the Baby circus t.
-Agent: The Baby circus t is shirt.
-Customer: Tell me about the Guidewater waders.
-Agent: The Guidewater waders is reg.
-Customer: Tell me about the Baby duality jkt.
-Agent: The Baby duality jkt is Reversibility and three.
-Customer: Tell me about the Baby live simply deer t.
-Agent: The Baby live simply deer t is shirt.
-Customer: Tell me about the Baby live simply seal t.
-Agent: The Baby live simply seal t is shirt.
-Customer: Tell me about the Double haul.
-Agent: The Double haul is Sometimes all you need is a single fly box and clippers, while other times it's all that and the kitchen sink. Fortunately, the Double Haul easily separates into modular components to carry what you need, when you need it. The back pod is large enough to hold an SST and hydration reservoir, and converts to a stand.
-Customer: Tell me about the Down sweater.
-Agent: The Down sweater is There's much to see 14,000 feet up at the Chasm View bivy: a vertigo.
-Customer: Tell me about the Baby synch cardigan.
-Agent: The Baby synch cardigan is Springtime temperatures fluctuate like the path of a windblown leaf. Keep your wee one sheltered from nature's whimsy in the soft and warm Baby Synchilla Cardigan. It's made from 7.6.
-Customer: Tell me about the Baby synch vest.
-Agent: The Baby synch vest is A baby's bouldering circuit includes mantles of the camp duffel bag, a traverse of the parked bike and a top.
-Customer: Tell me about the Baby tag you're it t.
-Agent: The Baby tag you're it t is shirt.
-Customer: Tell me about the L/s runshade top.
-Agent: The L/s runshade top is Power pasta feed, one last gear check, and try to get some sleep.
-Customer: Tell me about the L/s sol patrol shirt.
-Agent: The L/s sol patrol shirt is Two.
-Customer: Tell me about the Bimini cap.
-Agent: The Bimini cap is South of Kanab, temperatures take a decidedly upward swing. In these sun.
-Customer: Tell me about the Borderless messenger shorts.
-Agent: The Borderless messenger shorts is Pair these lightweight, stretchy capris with your next dicey lead or off.
-Customer: Tell me about the Duck pants.
-Agent: The Duck pants is reg.
-Customer: Tell me about the Duck pants.
-Agent: The Duck pants is short.
-Customer: Tell me about the Duck shorts.
-Agent: The Duck shorts is Sometimes life requires a welder. Other times a really good scotch. Be ready for whatever comes at you with the versatile (and wickedly comfortable) Duck Shorts. The basket.
-Customer: Tell me about the Borderless trek pants.
-Agent: The Borderless trek pants is The Ruby Crest trail runs two directions: up and down. To keep you moving in this shifting terrain, our Borderless Trek Pants have a stretchy blend of 95% nylon (60% recycled) and 5% spandex, woven into a soft, flexible fabric that's equal parts tough and comfortable and offers 40.
-Customer: Tell me about the Borderless trek zip.
-Agent: The Borderless trek zip is off pants.
-Customer: Tell me about the Half mass.
-Agent: The Half mass is Sized for riding a bike and finely tuned to hold a day's worth of gear, the Half.
-Customer: Tell me about the Cap 1 crew.
-Agent: The Cap 1 crew is When it comes to moisture, this long.
-Customer: Tell me about the Cap 1 graphic crew.
-Agent: The Cap 1 graphic crew is The choice for rest days that include Ultimate Frisbee, longboarding the Avenues and a quick 9.
-Customer: Tell me about the Fitz roy study t.
-Agent: The Fitz roy study t is shirt.
-Customer: Tell me about the Flyfishing the athabasca poster.
-Agent: The Flyfishing the athabasca poster is Patrik Ondrus wets his line in the Athabasca River. Jasper National Park, Alberta, Canada. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy and beauty of lives spent outside. These photos have appeared exclusively on our Web site, in our catalog and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.<br><br><b>Details:</b><ul> <li>"Dimensions: 36"" x 24"""</li> <li>Photo by Dusan Smetana</li></ul><br><br><b>Fabric: </b>Printed on recycled paper with soy inks.<br><br>Printed in USA..
-Customer: Tell me about the Flying fish 2 t.
-Agent: The Flying fish 2 t is shirt.
-Customer: Tell me about the Freedom to roam t.
-Agent: The Freedom to roam t is shirt.
-Customer: Tell me about the '73 logo t.
-Agent: The '73 logo t is shirt.
-Customer: Tell me about the Active boxer briefs.
-Agent: The Active boxer briefs is A no.
-Customer: Tell me about the Active briefs.
-Agent: The Active briefs is These featherweight, quick.
-Customer: Tell me about the Cap 2 bottoms.
-Agent: The Cap 2 bottoms is Cut loose from the maddening crowds and search out the undone. Capilene 2 fabric balances fast.
-Customer: Tell me about the Cap 2 crew.
-Agent: The Cap 2 crew is This crew takes the edge off fickle weather. In clearing conditions, it has the fastest dry time of all our performance baselayer fabrics, with an open.
-Customer: Tell me about the All.
-Agent: The All is time shell.
-Customer: Tell me about the All.
-Agent: The All is wear cargo shorts.
-Customer: Tell me about the All.
-Agent: The All is wear shorts.
+customer: Tell me about the Active classic boxers.
+agent: There's a reason why our boxers are a cult favorite.
+
+customer: Tell me about the Active sport boxer briefs.
+agent: Skinning up Glory requires enough movement without your boxers deciding to poach their own route.
+
+customer: Tell me about the Active sport briefs.
+agent: These are super breathable.
+
+customer: Tell me about the Alpine guide pants.
+agent: Skin in, climb ice, switch to rock, traverse a knife-edge.
+
+customer: Tell me about the Alpine wind jacket.
+agent: On high ridges, steep ice, and anything alpine, this jacket serves as a true "best of all worlds" staple. It excels as a standalone piece.
+
+customer: Tell me about the Ascensionist jacket.
+agent: Our most technical soft shell for full-on alpine conditions.
+
+customer: Tell me about the Atom.
+agent: A multitasker's cloud nine, the Atom plays the part of courier bag, daypack, and carry-all.
+
+customer: Tell me about the Print banded Betina bottom.
+agent: Our fullest coverage bottoms, the Betina fits highest across the hips with a slightly scooped, lined front. Made from a blend of 82% nylon/18% spandex.
+
+customer: Tell me about the Baby micro d.
+agent: This is a luxe cardigan.
+
+customer: Tell me about the Baby sun bucket hat.
+agent: This hat goes on when the sun rises above the horizon and stays on when raindrops start falling. It's made from an ultra-lightweight material.
+
+customer: Tell me about the Baby sunshade top.
+agent: Soft, stretchy polyester fabric is fast wicking, quick drying, and breathable.
+
+customer: Tell me about the Baggies shorts.
+agent: Even Baggies, our most popular shorts for anything or nothing, occasionally need an update. This season we've increased the inseam length. Their casual fit is quick-drying.
+
+customer: Tell me about the Beach bucket.
+agent: Whenever you're at the junction of water and land, neutralize the sun's unforgiving rays with the wide brim and soft design of our versatile Beach Bucket. It has a durable, semi-rigid construction.
+
+customer: Tell me about the Better sweater jacket.
+agent: June nights camped out in New Mexico's Navajo country are starry and cold. Layer up in the softest fleece we've spun to date. Made from high-quality materials.
+
+customer: Tell me about the Borderless shorts.
+agent: The Borderless shorts are available in 11-inch and 7-inch lengths.
+
+customer: Tell me about the Bucket hat.
+agent: Besides its shade-providing design, the Bucket hat is stylish and functional.
+
+customer: Tell me about the Cap 1 bottoms.
+agent: Spring skiing is as transient as the wind. Move fast, move light, and still stay dry with our lightest performance wear.
+
+customer: Tell me about the Cap 1 boxer briefs.
+agent: On bivy or belay, these boxer briefs provide form-fitting comfort.
+
+customer: Tell me about the Cap 1 graphic t-shirt.
+agent: This shirt is designed for active kids who live at full throttle.
+
+customer: Tell me about the Cap 1 t-shirt.
+agent: This is a basic, high-performance t-shirt suitable for various activities.
+
+customer: Tell me about the Cap 2 t-shirt.
+agent: This shirt is designed for enhanced performance during outdoor activities.
+
+customer: Tell me about the Cap 2 zip neck.
+agent: Designed for wet conditions, the Cap 2 zip neck provides excellent insulation and moisture management.
+
+customer: Tell me about the Cap 3 zip neck.
+agent: Capilene 3 provides excellent insulation and next-to-skin comfort.
+
+customer: Tell me about the Cap 4 bottoms.
+agent: For sufferfests like the Grand in January, a pair of these warm bottoms will add a bright side to your grief. Our warmest synthetic performance baselayer, Capilene 4 fabric is stretchy and compressible. Its smooth jersey exterior glides easily beneath layers, and the cozy internal grid traps warmth, wicks moisture, and is highly breathable.
+
+customer: Tell me about the City by the sea t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Compound cargo pants.
+agent: The Compound cargo pants are available in long and regular lengths.
+
+customer: Tell me about the Continental shorts.
+agent: The Continental shorts feature a wrinkle-resistant design, making them ideal for travel.
+
+customer: Tell me about the Cotton board shorts.
+agent: A classic in fabric and form, the Cotton board shorts feature a 5.6-inch inseam and are designed for comfort and durability.
+
+customer: Tell me about the Crosstown.
+agent: Whether you're crossing town or crossing a stream, these versatile shorts provide comfort and durability.
+
+customer: Tell me about the Custodian pants.
+agent: The Custodian pants are available in long and regular lengths.
+
+customer: Tell me about the Deep wading jacket.
+agent: Whether you're chasing Olympic Peninsula chrome or reaching for stripers beyond the break, sometimes you simply have to jump in and go deep. This ultra-durable jacket is designed for serious outdoor enthusiasts.
+
+customer: Tell me about the Delivery shorts.
+agent: Locals know all the best spots. Our Delivery Shorts are built for all-day comfort and durability.
+
+customer: Tell me about the Down sweater vest.
+agent: Impossible to confuse with the sweater vests found at golf courses and bingo parlors, ours comes packed with ultra-lightweight, highly compressible down that offers exceptional warmth.
+
+customer: Tell me about the Dragoons t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Duck pants.
+agent: The Duck pants are available in long and regular lengths.
+
+customer: Tell me about the Elias fz sweatshirt.
+agent: Clean as a Wingate splitter. Our Elias fz sweatshirt is made from a welcoming blend of 95% organic cotton and 5% spandex in an athletic, climbing cut. The pockets rise above your harness, and the stand-up collar provides additional warmth.
+
+customer: Tell me about the Elias sweatshirt.
+agent: The Elias sweatshirt is designed as a complete wardrobe for dirtbag climbers, offering comfort and durability.
+
+customer: Tell me about the Fezzman shirt.
+agent: Look fresh even when you feel disheveled. Made with 65% lightweight, breathable, all-natural fibers, the Fezzman shirt is perfect for those on the go.
+
+customer: Tell me about the Fish frenzy t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Freewheeler.
+agent: This sturdy wheeled bag holds a week's worth of clothes and keeps boots or dirty gear in a separate compartment, a floating baffle separating the two. The zippered, easy-access design makes it a traveler's favorite.
+
+customer: Tell me about the Gi ii pants.
+agent: The Gi ii pants are designed for travel, offering lightweight comfort and durability.
+
+customer: Tell me about the Gi ii shorts.
+agent: Base camp favorites, the Gi II shorts' featherlight weight and motion-friendly design make them perfect for outdoor activities.
+
+customer: Tell me about the Girl's boardie capris.
+agent: Built for two-way stretch, the Girl's boardie capris offer comfort and flexibility for young adventurers.
+
+customer: Tell me about the Girl's boardie shorts.
+agent: So you're raising Neptune's daughter. These shorts are perfect for young swimmers and adventurers.
+
+customer: Tell me about the Girl's cotton tank dress.
+agent: This soft cotton dress feels breezy and cool, just like a day at the beach. Made of a lightweight 5.6-ounce cotton blend, it's perfect for hot summer days.
+
+customer: Tell me about the Going big in B.C. poster.
+agent: One man's trash is another man's treasure. Orry Grant taking it out on Trash Chutes. Nelson, B.C. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy, and beauty of lives spent outside. These photos have appeared exclusively on our website, in our catalog, and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.
+
+customer: Tell me about the Great divider.
+agent: From standing waves to blue water, the Great Divider is designed to keep your gear organized and protected with its sturdy and waterproof design.
+
+customer: Tell me about the Guidewater duffle.
+agent: The Guidewater duffle is designed for maximum storage and durability, making it ideal for serious outdoor enthusiasts.
+
+customer: Tell me about the Guidewater jacket.
+agent: Pounding into the teeth of a nor'easter or swinging tips through the deluge, the Guidewater jacket keeps you fishing comfortably long after other anglers have headed for the barn. We combined our best knowledge of fabrics, design, and technology to create a full-featured, waterproof jacket.
+
+customer: Tell me about the Guidewater shorts.
+agent: Everything we love about the Guidewater Pants, and less. The shorts version has all the same water-resistant and durable features.
+
+customer: Tell me about the Guidewater vest.
+agent: Find the tippet, tool, or fly box you need without taking your eyes off that big bank feeder. The Guidewater Vest replaces old school flap pockets with a more modern and functional design.
+
+customer: Tell me about the Highwater pfd vest.
+agent: The constant boat angling dilemma: You know you should wear one, but who wants to fish all day in a life vest? Here's the solution: The Highwater Vest is a full-featured, comfortable option that doesn't compromise safety.
+
+customer: Tell me about the Hip chest pack.
+agent: Ready to go vest free? This is the classic alternative. Designed to be worn either on the hips or at the chest (hence the name), this bombproof, streamlined pack is the ultimate in functional simplicity. Made from tough, polyurethane-coated fabric, it's durable and weather-resistant.
+
+customer: Tell me about the Iceberg t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Insulator pants.
+agent: Steelhead, salmon, trout...they aren't called "coldwater" fisheries for nothing. But the answer for chilly wading and cool weather is simple: Insulator Pants. Our latest version is made with moisture-wicking, insulating fabric that keeps you warm and dry.
+
+customer: Tell me about the '73 logo t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Borderless gi shorts.
+agent: These shorts have a mud-resistant design, making them ideal for outdoor activities where you might get dirty.
+
+customer: Tell me about the Cap 1 graphic tee.
+agent: Kids live at full throttle. Allow their boundless energy to flourish with the short-sleeved Cap 1 graphic tee, designed for active wear.
+
+customer: Tell me about the Cap 3 bottoms.
+agent: Like birds and clouds, kids stay on the move. Their abandon doesn't need purpose, just a little warmth when the sun sets or a quick dry when the water sprays. Worn alone or under layers, Capilene 3 Bottoms are a versatile, fast-drying option for active kids.
+
+customer: Tell me about the El cap jacket.
+agent: Resistant to hard play but irresistible against the skin, our El Cap Jacket is lightweight, quick-drying, and durable, making it perfect for active kids.
+
+customer: Tell me about the Flying fish t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Gpiw classic t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Live simply guitar t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Synch marsupial.
+agent: The roomy kangaroo pocket of the Synch Marsupial offers convenient storage, while the soft fleece provides warmth and comfort.
+
+customer: Tell me about the Torrentshell jacket.
+agent: When the barometric pressure gets low, our Torrentshell Jacket keeps spirits high with its waterproof, breathable design.
+
+customer: Tell me about the La surfer maria t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Lead an examined life poster.
+agent: Guanacos standing sentry in Patagonia, Chile. For 30 years we've paid tribute to human adventures both near and far with a collection of photographs that speak to the passion, joy, and beauty of lives spent outside. These photos have appeared exclusively on our website, in our catalog, and on the walls of our retail stores and specialty outdoor clothiers around the world. And now we are excited to make select photos available to you as posters. We hope they brighten up your space and inspire you to get outside.
+
+customer: Tell me about the Light and variable surf trunks.
+agent: Our lightest, leanest surf trunks are built for minimal underwater drag when diving and bodysurfing, and they pack down into their own tiny stuff pouch. Made from hardy but ultralightweight 3.5-ounce fabric, they are quick-drying and highly functional for water sports.
+
+customer: Tell me about the Live simply bug t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Live simply deer t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Live simply guitar t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Logo hat.
+agent: Your unflappable road companion, the Logo Hat shields you from the sun and keeps you cool under pressure.
+
+customer: Tell me about the L/s hooded rashguard.
+agent: The 30 UPF protection of the L/s hooded rashguard keeps your skin safe from the sun's harmful rays, while the lightweight, quick-drying fabric ensures comfort during water sports.
+
+customer: Tell me about the L/s island hopper shirt.
+agent: Serene in the face of serious heat and always up for a cleansing dunk in the hotel sink, an Island Hopper is traveler's manna. Its ultralight blend of moisture-wicking and quick-drying fabric keeps you cool and comfortable in hot climates.
+
+customer: Tell me about the L/s rashguard.
+agent: The 30 UPF protection of the L/s rashguard keeps your skin safe from the sun's harmful rays, while the lightweight, quick-drying fabric ensures comfort during water sports.
+
+customer: Tell me about the L/s steersman shirt.
+agent: This ain't no city shirt, unless you're in Manila. The Steersman is designed for rugged outdoor use, with a durable yet breathable fabric that stands up to tough conditions.
+
+customer: Tell me about the Lw endurance ankle socks.
+agent: Fast-drying and durable, the Lw endurance ankle socks are designed to withstand long treks and tough conditions, providing comfort and support where you need it most.
+
+customer: Tell me about the Lw endurance quarter socks.
+agent: Scraped, taped, or inflamed, our ankles suffer in rough country. These endurance socks are made for miles of abusive terrain, with an over-the-ankle cut for added protection.
+
+customer: Tell me about the Lw hiking crew socks.
+agent: Like suites for your feet, these socks stay comfortable and provide support during long hikes, making them a must-have for serious hikers.
+
+customer: Tell me about the Lw r4 jacket.
+agent: High off the deck on Warbonnet Peak in the immaculate Wind River Mountains, the naming of the range quickly makes sense. Our windproof and stretchy Lightweight R4 Jacket protects and warms with a Polartec Windbloc laminate sandwiched between a low-profile interior and a durable outer layer.
+
+customer: Tell me about the Lw travel duffel.
+agent: This wanderer's bag is large enough to hold the contents of your life without getting in the way. A large zippered entry to the roomy main compartment makes it easy to toss in a few essentials or stuff it to the max. An exterior side zipper pocket organizes small items; the top pocket holds music in backpack mode or wallet, phone, etc. in duffel mode. Tuckaway backpack straps and fully padded back and bottom panels provide comfort and durability however you use it. Compression straps and a cinch collar secure pretty much anything you want to attach to the outside, and the duffel stows away in its own pocket. Made from strong, extremely lightweight 50-denier fabric.
+
+customer: Tell me about the Lw travel pack.
+agent: In the lifelong search for a place to call home, we all do time on the road. This super-lightweight, compact travel pack is designed for minimalist travel and offers just enough space for your essentials.
+
+customer: Tell me about the M10 jacket.
+agent: Made for those who thrive on thin and technical climbs in full alpine conditions, the new M10 is a study in minimalism and effective protection against the elements.
+
+customer: Tell me about the M10 pants.
+agent: Volatile climates don't rule out big adventures, they just call for ingenious techniques and the right gear, like our M10 pants, which offer protection and mobility in challenging conditions.
+
+customer: Tell me about the Merino 1 crew.
+agent: In a day packed with decisions, this one's easy. Worn alone, this versatile long-sleeve crew offers comfort and warmth, making it a staple for any cold-weather layering system.
+
+customer: Tell me about the Merino 1 t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Merino 2 polo.
+agent: The feel is bohemian, the look should at least get your foot in the door. Designed for an active lifestyle in warm to cool weather, Merino 2 is made from 73% merino wool wrapped around an all-synthetic core, providing warmth, breathability, and style.
+
+customer: Tell me about the Merino 2 t-shirt.
+agent: This shirt is designed for casual wear and features a simple, stylish look.
+
+customer: Tell me about the Migration hemp shirt.
+agent: Summerweight and soft, the Migration represents an inspired merger of 55% durable hemp and 45% plush organic cotton fabrics. Lightweight and cool against the skin, it travels easily between a morning of bouldering and the afternoon commute to Grand Junction. Offset shoulder seams stay smooth under the weight of a courier's bag. Comes with a side pocket for essentials.
+
+customer: Tell me about the Minimalist

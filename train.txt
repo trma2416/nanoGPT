@@ -1,0 +1,356 @@
+customer: Tell me about the Active classic boxers.
+agent: The Active classic boxers are a cult favorite for a reason.
+
+customer: Tell me about the Active sport boxer briefs.
+agent: The Active sport boxer briefs are designed to accommodate movement without restriction, perfect for activities like skinning up Glory.
+
+customer: Tell me about the Active sport briefs.
+agent: The Active sport briefs are super breathable.
+
+customer: Tell me about the Alpine guide pants.
+agent: The Alpine guide pants are suitable for skinning in, climbing ice, switching to rock, and traversing a knife-edge.
+
+customer: Tell me about the Alpine wind jacket.
+agent: The Alpine wind jacket serves as a staple for high ridges, steep ice, and alpine conditions, excelling as a standalone piece.
+
+customer: Tell me about the Ascensionist jacket.
+agent: The Ascensionist jacket is our most technical soft shell.
+
+customer: Tell me about the Atom.
+agent: The Atom functions as a courier bag, daypack, and carry-all, making it a multitasker's dream.
+
+customer: Tell me about the Print banded Betina bottom.
+agent: The Print banded Betina bottom offers our fullest coverage, fitting highest across the hips with a slightly scooped, lined front, made from a blend of 82% nylon and 18% spandex.
+
+customer: Tell me about the Baby micro d.
+agent: The Baby micro d is a luxurious cardigan.
+
+customer: Tell me about the Baby sun bucket hat.
+agent: The Baby sun bucket hat is essential from sunrise to rain, made from an ultra-lightweight material.
+
+customer: Tell me about the Baby sunshade top.
+agent: The Baby sunshade top is made from soft, stretchy polyester fabric that is fast wicking, quick drying, and breathable.
+
+customer: Tell me about the Baggies shorts.
+agent: The Baggies shorts, our most popular shorts, have been updated this season with an increased inseam length for a casual fit and quick drying properties.
+
+customer: Tell me about the Beach bucket.
+agent: The Beach bucket is ideal for neutralizing the sun's rays at the junction of water and land, featuring a wide brim and soft design.
+
+customer: Tell me about the Better sweater jacket.
+agent: The Better sweater jacket is perfect for cold, starry nights in New Mexico's Navajo country, made from the softest fleece.
+
+customer: Tell me about the Borderless shorts.
+agent: The Borderless shorts come in 11-inch and 7-inch lengths.
+
+customer: Tell me about the Bucket hat.
+agent: The Bucket hat provides ample shade.
+
+customer: Tell me about the Cap 1 bottoms.
+agent: The Cap 1 bottoms are ideal for spring skiing, designed to move fast, light, and stay dry.
+
+customer: Tell me about the Cap 1 boxer briefs.
+agent: The Cap 1 boxer briefs are designed for comfort during bivy or belay.
+
+customer: Tell me about the Cap 1 graphic t-shirt.
+agent: The Cap 1 graphic t-shirt is designed for kids who live at full throttle, providing boundless energy with a short-sleeve design.
+
+customer: Tell me about the Cap 1 t-shirt.
+agent: The Cap 1 t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Cap 2 t-shirt.
+agent: The Cap 2 t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Cap 2 zip neck.
+agent: The Cap 2 zip neck is designed for wet conditions.
+
+customer: Tell me about the Cap 3 zip neck.
+agent: The Cap 3 zip neck provides excellent insulation and next-to-skin comfort.
+
+customer: Tell me about the Cap 4 bottoms.
+agent: The Cap 4 bottoms are our warmest synthetic performance baselayer, ideal for cold conditions like the Grand in January, featuring Capilene 4 fabric which is stretchy, compressible, and has a cozy internal grid that traps warmth.
+
+customer: Tell me about the City by the sea t-shirt.
+agent: The City by the sea t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Compound cargo pants.
+agent: The Compound cargo pants come in long and regular lengths.
+
+customer: Tell me about the Continental shorts.
+agent: The Continental shorts are designed to resist wrinkles.
+
+customer: Tell me about the Cotton board shorts.
+agent: The Cotton board shorts are a classic in fabric and form, featuring a 5.6-inch length.
+
+customer: Tell me about the Crosstown.
+agent: The Crosstown is suitable for cross-town or cross-country use.
+
+customer: Tell me about the Custodian pants.
+agent: The Custodian pants come in long and regular lengths.
+
+customer: Tell me about the Deep wading jacket.
+agent: The Deep wading jacket is ideal for chasing fish in deep waters, featuring an ultra-lightweight design.
+
+customer: Tell me about the Delivery shorts.
+agent: The Delivery shorts are built for all local spots, designed with versatility in mind.
+
+customer: Tell me about the Down sweater vest.
+agent: The Down sweater vest is packed with ultra-light insulation, distinguishing it from typical sweater vests found at golf courses and bingo parlors.
+
+customer: Tell me about the Dragoons t-shirt.
+agent: The Dragoons t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Duck pants.
+agent: The Duck pants come in long and regular lengths.
+
+customer: Tell me about the Elias fz sweatshirt.
+agent: The Elias fz sweatshirt is clean-cut, made from a blend of 95% organic cotton and 5% spandex, designed for climbing with pockets positioned above the harness.
+
+customer: Tell me about the Elias sweatshirt.
+agent: The Elias sweatshirt is a complete wardrobe for dirtbaggers.
+
+customer: Tell me about the Fezzman shirt.
+agent: The Fezzman shirt is designed to look fresh even when you feel disheveled, made from 65% lightweight, breathable fabric.
+
+customer: Tell me about the Fish frenzy t-shirt.
+agent: The Fish frenzy t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Freewheeler.
+agent: The Freewheeler is a sturdy wheeled bag designed to hold a week's worth of clothes and separate boots or dirty gear, featuring a floating baffle and easy-access compartments.
+
+customer: Tell me about the Gi ii pants.
+agent: The Gi ii pants are designed for travel.
+
+customer: Tell me about the Gi ii shorts.
+agent: The Gi ii shorts are base camp favorites, known for their featherlight weight and motion-friendly design.
+
+customer: Tell me about the Girl's boardie capris.
+agent: The Girl's boardie capris are built for two.
+
+customer: Tell me about the Girl's boardie shorts.
+agent: The Girl's boardie shorts are suitable for raising Neptune's daughter.
+
+customer: Tell me about the Girl's cotton tank dress.
+agent: The Girl's cotton tank dress is made of soft cotton, feels breezy and cool, just like a day at the beach.
+
+customer: Tell me about the Going big in B.C. poster.
+agent: The Going big in B.C. poster features a photograph by Steve Ogle, capturing Orry Grant in action, printed with soy inks on 100% recycled paper.
+
+customer: Tell me about the Great divider.
+agent: The Great divider is suitable for standing waves to blue conditions.
+
+customer: Tell me about the Guidewater duffle.
+agent: The Guidewater duffle is designed for maximum storage and protection.
+
+customer: Tell me about the Guidewater jacket.
+agent: The Guidewater jacket keeps you fishing comfortably in harsh weather conditions, combining our best knowledge of fabrics, design, and technology.
+
+customer: Tell me about the Guidewater shorts.
+agent: The Guidewater shorts offer all the benefits of the Guidewater Pants but in a shorter version.
+
+customer: Tell me about the Guidewater vest.
+agent: The Guidewater vest allows you to access fishing essentials without taking your eyes off the target, replacing old school flap pockets with a more efficient design.
+
+customer: Tell me about the Highwater pfd vest.
+agent: The Highwater pfd vest is designed for constant boat angling, providing comfort and safety without compromising mobility.
+
+customer: Tell me about the Hip chest pack.
+agent: The Hip chest pack is designed to be worn on the hips or chest, made from tough, polyurethane-coated material.
+
+customer: Tell me about the Iceberg t-shirt.
+agent: The Iceberg t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Insulator pants.
+agent: The Insulator pants are designed for coldwater fisheries, providing warmth and moisture management.
+
+customer: Tell me about the '73 logo t-shirt.
+agent: The '73 logo t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Borderless gi shorts.
+agent: The Borderless gi shorts are designed to handle mud and other challenging conditions.
+
+customer: Tell me about the Cap 1 graphic tee.
+agent: The Cap 1 graphic tee allows kids' boundless energy to flourish, featuring a short-sleeve design.
+
+customer: Tell me about the Cap 3 bottoms.
+agent: The Cap 3 bottoms are versatile, fast-drying, and provide warmth for kids on the move.
+
+customer: Tell me about the El cap jacket.
+agent: The El cap jacket is resistant to hard play but irresistible against the skin, lightweight, and quick-drying.
+
+customer: Tell me about the Flying fish t-shirt.
+agent: The Flying fish t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Gpiw classic t-shirt.
+agent: The Gpiw classic t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Live simply guitar t-shirt.
+agent: The Live simply guitar t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Synch marsupial.
+agent: The Synch marsupial features a roomy kangaroo pocket.
+
+customer: Tell me about the Torrentshell jacket.
+agent: The Torrentshell jacket keeps spirits high when the barometric pressure gets low.
+
+customer: Tell me about the La surfer maria t-shirt.
+agent: The La surfer maria t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Lead an examined life poster.
+agent: The Lead an examined life poster features a photograph by Terri Laine, capturing guanacos in Patagonia, Chile, printed with soy inks on recycled paper.
+
+customer: Tell me about the Light and variable surf trunks.
+agent: The Light and variable surf trunks are our lightest, leanest surf trunks, designed for minimal underwater drag and packable into their own tiny pouch.
+
+customer: Tell me about the Live simply bug t-shirt.
+agent: The Live simply bug t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Live simply deer t-shirt.
+agent: The Live simply deer t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Live simply guitar t-shirt.
+agent: The Live simply guitar t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Logo hat.
+agent: The Logo hat is your unflappable road companion.
+
+customer: Tell me about the L/s hooded rashguard.
+agent: The L/s hooded rashguard features a 30 UPF rating for sun protection.
+
+customer: Tell me about the L/s island hopper shirt.
+agent: The L/s island hopper shirt is serene in the face of serious heat, made from an ultralight blend of moisture-wicking materials.
+
+customer: Tell me about the L/s rashguard.
+agent: The L/s rashguard features a 30 UPF rating for sun protection.
+
+customer: Tell me about the L/s steersman shirt.
+agent: The L/s steersman shirt is not a city shirt, unless you're in Manila, designed for durability and comfort.
+
+customer: Tell me about the Lw endurance ankle socks.
+agent: The Lw endurance ankle socks are fast-drying and designed for rough terrain.
+
+customer: Tell me about the Lw endurance quarter socks.
+agent: The Lw endurance quarter socks are designed for miles of abusive terrain, providing support and protection for your ankles.
+
+customer: Tell me about the Lw hiking crew socks.
+agent: The Lw hiking crew socks are like suites for your feet, providing comfort and support.
+
+customer: Tell me about the Lw r4 jacket.
+agent: The Lw r4 jacket is ideal for high-altitude activities, providing windproof and stretchy protection.
+
+customer: Tell me about the Lw travel duffel.
+agent: The Lw travel duffel is a wanderer's bag, large enough to hold essential items without getting in the way, featuring a large zippered entry and multiple pockets for organization.
+
+customer: Tell me about the Lw travel pack.
+agent: The Lw travel pack is designed for the lifelong search for a place to call home, offering a super lightweight and functional design.
+
+customer: Tell me about the M10 jacket.
+agent: The M10 jacket is designed for technical climbs in full alpine conditions, emphasizing minimalism.
+
+customer: Tell me about the M10 pants.
+agent: The M10 pants are designed for volatile climates and big adventures, featuring ingenious techniques for protection.
+
+customer: Tell me about the Merino 1 crew.
+agent: The Merino 1 crew is an easy choice for a day packed with decisions, providing versatility when worn alone or as a base layer.
+
+customer: Tell me about the Merino 1 t-shirt.
+agent: The Merino 1 t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Merino 2 polo.
+agent: The Merino 2 polo combines a bohemian feel with a look that should at least get your foot in the door, designed for an active lifestyle in warm to cool weather, made from 73% merino wool.
+
+customer: Tell me about the Merino 2 t-shirt.
+agent: The Merino 2 t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Migration hemp shirt.
+agent: The Migration hemp shirt is summerweight and soft, representing an inspired merger of 55% durable hemp and 45% plush organic cotton fabrics, lightweight and cool against the skin.
+
+customer: Tell me about the Minimalist board shorts.
+agent: The Minimalist board shorts are 19 inches long.
+
+customer: Tell me about the Minimass.
+agent: The Minimass is a smaller version of the Mini Mass, designed to navigate narrow streets and airplane aisles without causing chaos, featuring a less bulky design.
+
+customer: Tell me about the Mlc wheelie.
+agent: The Mlc wheelie is a wheeled version of our utilitarian MLC, designed for speed and ease in crowded airport terminals.
+
+customer: Tell me about the Mountain island t-shirt.
+agent: The Mountain island t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Nine trails jacket.
+agent: The Nine trails jacket is designed for trail enthusiasts, providing protection and versatility between the Bridger Ridge Run and normal trail conditions.
+
+customer: Tell me about the Nine trails shorts.
+agent: The Nine trails shorts are designed for those who view trails as their sanctuary, offering freedom of movement and lightness of being with a pared-down design.
+
+customer: Tell me about the Organic logo t-shirt.
+agent: The Organic logo t-shirt is a basic, functional shirt.
+
+customer: Tell me about the O web belt.
+agent: The O web belt is a versatile accessory, able to cross the divide between workwear, casual outfits, and a day at the crags, keeping everything in place during animated activities.
+
+customer: Tell me about the Paddler board shorts.
+agent: The Paddler board shorts are built for maximum comfort during activities that cause friction.
+
+customer: Tell me about the Pataloha shirt.
+agent: The Pataloha shirt has been inspired by native designs true to the aloha spirit for 20 years, exquisitely tailored in environmentally friendly materials.
+
+customer: Tell me about the Planer t-shirt.
+agent: The Planer t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Platform t-shirt.
+agent: The Platform t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Pocket pack.
+agent: The Pocket pack is designed for the savvy commuter, carrying a day's worth of essentials in a streetwise silhouette, featuring a gusseted main compartment with an interior divider and organizer pockets.
+
+customer: Tell me about the R1 hoody.
+agent: The R1 hoody is spotted around the globe, earning raves from our most active customers and ambassadors for its warmth, breathability, and minimal detailing essential for climbers and backcountry skiers.
+
+customer: Tell me about the R1 pullover.
+agent: The R1 pullover is suitable for diverse conditions, from desert sandstone to corn snow and iced routes.
+
+customer: Tell me about the Rain shadow pants.
+agent: The Rain shadow pants are light enough to be an afterthought, yet provide reliable protection.
+
+customer: Tell me about the Reg fit organic cotton jeans.
+agent: The Reg fit organic cotton jeans come in long and regular lengths.
+
+customer: Tell me about the Relax fit organic cotton jeans.
+agent: The Relax fit organic cotton jeans come in short, long, and regular lengths.
+
+customer: Tell me about the Remat.
+agent: The Remat is the ultimate recycled product, made from reworked materials originally used for automobile gasket manufacturing, now repurposed for heavy-duty use.
+
+customer: Tell me about the Retro grade pants.
+agent: The Retro grade pants are designed based on Sonnie Trotter's wish list, made from a blend of organic cotton and spandex, providing softness, lightness, and cool comfort with just the right amount of stretch for dynamic motion.
+
+customer: Tell me about the Riverwalker.
+agent: The Riverwalker comes in felt and studded versions.
+
+customer: Tell me about the Rock guide shorts.
+agent: The Rock guide shorts are made for high, open expanses of granite, combining 96% stretch material for comfort and durability.
+
+customer: Tell me about the Rockpile t-shirt.
+agent: The Rockpile t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Runshade top.
+agent: The Runshade top keeps you comfortable from the trailhead at dawn through sunset on Imogene Pass.
+
+customer: Tell me about the Shop pants.
+agent: The Shop pants come in regular and short lengths.
+
+customer: Tell me about the Simple guide jacket.
+agent: The Simple guide jacket is designed for skinning up slopes without restriction.
+
+customer: Tell me about the Soaring jacket.
+agent: The Soaring jacket is made for aerial pursuits, combining spring-like properties for flexibility and comfort.
+
+customer: Tell me about the Sonar so no t-shirt.
+agent: The Sonar so no t-shirt is a basic, functional shirt.
+
+customer: Tell me about the Special edition Pataloha shirt.
+agent: This year's Special Edition Pataloha shirt features art depicting surf and climbing spots around the globe, made with coconut buttons and a beautiful but pragmatic machine-washable design.
+
+customer: Tell me about the Squid t-shirt.
+agent: The Squid t-shirt is a basic
